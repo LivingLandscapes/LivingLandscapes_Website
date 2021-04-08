@@ -11,15 +11,24 @@
 
 
 
-<title>Crump Lab</title>
+<title>Living Landscapes Lab</title>
 
-<script src="site_libs/header-attrs-2.5.3/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -54,11 +63,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -71,32 +75,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 <link rel="stylesheet" href="front.css" type="text/css" />
@@ -108,10 +86,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -128,40 +102,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -189,7 +136,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -201,7 +148,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -212,10 +159,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -227,7 +187,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -299,7 +258,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Crump Lab</a>
+      <a class="navbar-brand" href="index.html">Living Landscapes Lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -310,13 +269,7 @@ $(document).ready(function () {
   <a href="Publications.html">Publications</a>
 </li>
 <li>
-  <a href="Books.html">Books/OER</a>
-</li>
-<li>
   <a href="Courses.html">Courses</a>
-</li>
-<li>
-  <a href="Apps.html">Apps</a>
 </li>
 <li>
   <a href="Opportunities.html">Join The Lab</a>
@@ -328,25 +281,15 @@ $(document).ready(function () {
   <a href="Fun.html">Fun</a>
 </li>
 <li>
-  <a href="R.html">R</a>
-</li>
-<li>
-  <a href="https://twitter.com/MattCrump_">
+  <a href="https://twitter.com/calebproberts">
     <span class="fab fa-twitter"></span>
      
      
   </a>
 </li>
 <li>
-  <a href="https://github.com/CrumpLab">
+  <a href="https://github.com/LivingLandscapes">
     <span class="fab fa-github"></span>
-     
-    
-  </a>
-</li>
-<li>
-  <a href="https://www.youtube.com/channel/UCSaZ1htKwtZ1GuqI1xGjuSA?">
-    <span class="fab fa-youtube"></span>
      
     
   </a>
@@ -359,11 +302,11 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
-<h1 class="title toc-ignore">Crump Lab</h1>
+<h1 class="title toc-ignore">Living Landscapes Lab</h1>
 
 </div>
 
@@ -380,10 +323,10 @@ $(document).ready(function () {
 </style>
 <div class="row">
 <div class="col-sm-6">
-<p><img src="images/logo2.png" width="100%" id=logo style="display: block; margin: auto;" /></p>
+<p><img src="images/logo2.JPG" width="100%" id=logo style="display: block; margin: auto;" /></p>
 <div id="contact" class="section level3">
 <h3>Contact</h3>
-<p>Matthew Crump Associate Professor <a href="http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/psychology.php">Department of Psychology</a> <a href="http://www.brooklyn.cuny.edu/">Brooklyn College of CUNY</a> 2900 Bedford Avenue, Brooklyn, NY 11210 Office: 4401 James Hall Phone: 718-951-5000 x. 6068 email: <a href="mailto:mcrump@brooklyn.cuny.edu" class="email">mcrump@brooklyn.cuny.edu</a> Lab: 4303 James Hall</p>
+<p>Caleb Roberts Assistant Unit Leader <a href="https://www1.usgs.gov/coopunits/unit/Arkansas">Arkansas Cooperative Fish &amp; Wildlife Research Unit</a> U.S. Geological Survey Fayetteville, AR, 850 W Dickson St Office: SCEN 519 email: <a href="mailto:cr065@uark.edu" class="email">cr065@uark.edu</a></p>
 </div>
 </div>
 <div class="col-sm-6" style="padding-top: 50px;">
@@ -424,7 +367,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

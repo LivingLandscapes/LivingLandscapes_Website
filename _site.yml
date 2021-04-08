@@ -1,34 +1,34 @@
-name: "Crump Lab"
+name: "Living Landscapes Lab"
 cover-image: "/images/logo.png"
-description: "Human Cognition and Performance Lab"
+description: "Living Landscapes Lab"
 navbar:
-  title: "Crump Lab"
+  title: "Living Landscapes Lab"
   left:
     - text: "People"
       href: People.html
     - text: "Publications"
       href: Publications.html
-    - text: "Books/OER"
-      href: Books.html
+    # - text: "Books/OER"
+    #   href: Books.html
     - text: "Courses"
       href: Courses.html
-    - text: "Apps"
-      href: Apps.html
+    # - text: "Apps"
+    #   href: Apps.html
     - text: "Join The Lab"
       href: Opportunities.html
     - text: "Blog"
       href: Blog.html
     - text: "Fun"
       href: Fun.html
-    - text: "R"
-      href: R.html
+    # - text: "R"
+    #   href: R.html
     - text: " "
       icon: fab fa-twitter
-      href: "https://twitter.com/MattCrump_"
+      href: "https://twitter.com/calebproberts"
     - text: ""
       icon: fab fa-github
-      href: "https://github.com/CrumpLab"
-    - text: ""
-      icon: fab fa-youtube
-      href: "https://www.youtube.com/channel/UCSaZ1htKwtZ1GuqI1xGjuSA?"
+      href: "https://github.com/LivingLandscapes"
+    # - text: ""
+    #   icon: fab fa-youtube
+    #   href: "https://www.youtube.com/channel/UCSaZ1htKwtZ1GuqI1xGjuSA?"
 output_dir: "."

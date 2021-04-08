@@ -1,7 +1,7 @@
 ---
-title: "Crump Lab"
+title: "Living Landscapes Lab"
 cover-image: "/images/logo2.png"
-description: "Computational Cognition Lab"
+description: "Living Landscapes Lab"
 output: 
   html_document:
     includes:
@@ -36,20 +36,18 @@ close(CON)
 <div class="col-sm-6">
 
 ```{r logo, out.width="100%", echo=FALSE, fig.align="center", out.extra="id=logo"}
-knitr::include_graphics("images/logo2.png")
+knitr::include_graphics("images/logo2.jpg")
 ```
 
 ### Contact 
 
-Matthew Crump
-Associate Professor
-[Department of Psychology](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/psychology.php)
-[Brooklyn College of CUNY](http://www.brooklyn.cuny.edu/)
-2900 Bedford Avenue, Brooklyn, NY 11210
-Office: 4401 James Hall
-Phone: 718-951-5000 x. 6068
-email: mcrump@brooklyn.cuny.edu 
-Lab: 4303 James Hall
+Caleb Roberts
+Assistant Unit Leader
+[Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas)
+U.S. Geological Survey
+Fayetteville, AR, 850 W Dickson St
+Office: SCEN 519
+email: cr065@uark.edu 
 
 </div>
 <div class="col-sm-6"  style="padding-top: 50px;">
