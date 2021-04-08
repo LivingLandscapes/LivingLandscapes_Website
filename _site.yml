@@ -8,12 +8,8 @@ navbar:
       href: People.html
     - text: "Publications"
       href: Publications.html
-    # - text: "Courses"
-    #   href: Courses.html
     - text: "Join The Lab"
       href: Opportunities.html
-    # - text: "Blog"
-    #   href: Blog.html
     - text: "Fun"
       href: Fun.html
     - text: " "
