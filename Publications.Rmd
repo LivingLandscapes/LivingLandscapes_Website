@@ -35,7 +35,7 @@ semantic_plot
 
 ```{r, results='asis', echo=F, message=F, warning=FALSE, eval=FALSE}
 library(bib2df)
-bib_df<-bib2df(file="Crump.bib")
+bib_df<-bib2df(file="Website_Pubs.bib")
 
 library(stringi)
 
@@ -50,7 +50,7 @@ start_year <- 0
 for(i in 1:dims[1]){
   a<-bib_df$FILE[i]
   split_a<-unlist(strsplit(a,";"))
-  file_path<-paste0("https://github.com/CrumpLab/CrumpLab.github.io/raw/master/",split_a[1])
+  file_path<-paste0("https://github.com/LivingLandscapes/RobertsWebsite2.github.io/raw/master/",split_a[1])
   if(bib_df[i,]$YEAR != start_year){
     cat(c("##",bib_df[i,]$YEAR, "\n"))
     start_year <- bib_df[i,]$YEAR
@@ -122,9 +122,9 @@ for(i in 1:dims[1]){
 
 **Copyright Notice:** Some of the documents listed below are available for downloading. These have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
 
-## In progress
- <script src="https://bibbase.org/show?bib=https://crumplab.github.io/Crump_inprogress.bib&jsonp=1&nocache=1&theme=side&authorFirst=1"></script> 
-
 ## Published
- <script src="https://bibbase.org/show?bib=https://crumplab.github.io/Crump.bib&jsonp=1&nocache=1&theme=side&authorFirst=1"></script> 
+ <script src="https://bibbase.org/show?bib=https://LivingLandscapes.github.io/Website_Pubs.bib&jsonp=1&nocache=1&theme=side&authorFirst=1"></script> 
+
+<!-- ## Published -->
+<!--  <script src="https://bibbase.org/show?bib=https://crumplab.github.io/Crump.bib&jsonp=1&nocache=1&theme=side&authorFirst=1"></script>  -->
 

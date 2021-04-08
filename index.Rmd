@@ -52,7 +52,7 @@ email: cr065@uark.edu
 </div>
 <div class="col-sm-6"  style="padding-top: 50px;">
 
-[Current and previous lab members](https://crumplab.github.io/People.html) include undergraduate, master's , doctoral, and postdoctoral researcher associates. If you are interested in human cognition and using computational techniques for theorizing, running experiments, analyzing data, and developing new technologies [then you may be interested in joining the team](https://crumplab.github.io/Opportunities.html).
+If you are interested in landscapes, global change, invasive species, wildlife, or agroecosystems, [check out  opportunities in the lab](https://livinglandscapes.github.io/RobertsLabWebsite2/Opportunities.html) and send me an email (cr065@uark.edu).
 
 The Living Landscapes Lab is located in the [Department of Biological Sciences](https://fulbright.uark.edu/departments/biology/index.php) at [University of Arkansas](https://www.uark.edu/).
 
