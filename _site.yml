@@ -16,8 +16,8 @@ navbar:
     #   href: Apps.html
     - text: "Join The Lab"
       href: Opportunities.html
-    - text: "Blog"
-      href: Blog.html
+    # - text: "Blog"
+    #   href: Blog.html
     - text: "Fun"
       href: Fun.html
     # - text: "R"
