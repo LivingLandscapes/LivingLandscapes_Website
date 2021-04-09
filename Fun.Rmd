@@ -16,8 +16,9 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
+At the Living Landscapes Lab, we encourage cross-disciplinary work, creativity, and science communication. We also acknowledge that there are many ways of knowing. Here are some projects and hobbies we work on:
 
-## Creative Non-fiction
+### Creative Non-fiction
 
 ----
 
@@ -25,8 +26,6 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 <div class="col-sm-8">
 
 #### [*To Hold a Beautiful, Burning Snake*](https://www.terrain.org/2018/nonfiction/hold-beautiful-burning-snake/)
-
-<https://www.terrain.org/2018/nonfiction/hold-beautiful-burning-snake/>. 
 
 Photo by Christine Chitwood. 
 
@@ -45,8 +44,6 @@ knitr::include_graphics("images/fun/RS.jpg")
 <div class="col-sm-8">
 
 #### [*I Want to Know Why I Kill*](https://www.thefourthriver.com/o7-content/2020/2/21/i-want-to-know-why-i-kill)
-
-<https://www.thefourthriver.com/o7-content/2020/2/21/i-want-to-know-why-i-kill>. 
 
 Photo by Axel Rouvin (CC BY 2.0). 
 

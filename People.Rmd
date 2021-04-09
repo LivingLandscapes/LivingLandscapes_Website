@@ -8,12 +8,12 @@ output:
 
 Last updated: April 8, 2021
 
-| Current | Info |
-|:--------|-------:|
-|Caleb Roberts| PI, email: cr065@uark.edu|
-<!-- |Kevonte Mitchell| Doctoral Student| -->
+| Current |     | Info |
+|:--------|-------|-------:|
+| Caleb Roberts | ![](images/ProfilePic_CalebRoberts.jpg){width=25%} | PI, email: cr065@uark.edu |
+<!-- | Someone New! | ![](images/ProfilePic_CalebRoberts.jpg){width=25%} | Master's Student, email: | -->
 
---------
+<!-- -------- -->
 
 <!-- ### Previous Lab Members -->
 
