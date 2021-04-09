@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -238,69 +235,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -308,16 +242,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
 
 
 
@@ -370,12 +294,8 @@ div.tocify {
 </div>
 
 
-<p>The Living Landscapes Lab is part of the <a href="https://www1.usgs.gov/coopunits/unit/Arkansas">Arkansas Cooperative Fish &amp; Wildlife Research Unit</a>. That means our mission is to co-produce research with and provide support for our cooperators at Arkansas Game &amp; Fish Commission, the U.S. Fish &amp; Wildlife Service, the Wildlife Management Institute, and the public. Students will have unique opportunities to work closely with cooperators on issues that will directly apply to state, regional, and national conservation decisions and management.</p>
-<p>So if you’re interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check below or send me an email with your CV and research interests (<a href="mailto:cr065@uark.edu" class="email">cr065@uark.edu</a>). I’m actively looking for students and post-docs to join the lab!</p>
-<hr />
-<div id="were-commited-to-diversity-equity-and-inclusion" class="section level4">
-<h4>We’re commited to diversity, equity, and inclusion</h4>
-<p>In the Living Landscapes Lab, we seek to create, keep, and spread a climate of positivity and inclusiveness. We embrace and encourage lab members’ differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, race, religion, sexual orientation, socio-economic status, and other characteristics that make us unique. To these ends, the Living Landscapes Lab encourages and enforces:</p>
+<p>If you’re interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check the job announcements below or send me an email with your CV and research interests (<a href="mailto:cr065@uark.edu" class="email">cr065@uark.edu</a>). I’m actively looking for students and post-docs to join the lab!</p>
+<p>In our lab, we seek to create, keep, and spread a climate of positivity and inclusiveness. To this end, the Living Landscapes Lab encourages and enforces:</p>
 <ul>
 <li>Respectful communication and cooperation</li>
 <li>The need for both words and action to combat systemic inequities</li>
@@ -383,9 +303,10 @@ div.tocify {
 <li>The importance of every voice</li>
 <li>The value of life outside of the lab</li>
 </ul>
-</div>
-<div id="now-hiring" class="section level4">
-<h4>Now hiring</h4>
+<div id="job-announcements" class="section level3">
+<h3>Job Announcements</h3>
+<div id="masters-assistantship---invasive-species-ecology-and-management" class="section level5">
+<h5>Master’s Assistantship - invasive species ecology and management</h5>
 <p>Interested in invasive species? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the <a href="https://www1.usgs.gov/coopunits/unit/Arkansas">Arkansas Cooperative Fish &amp; Wildlife Research Unit</a>. The student would start August 2021. For more information and how to apply, check out this <a href="">link</a>. Let me know via email if you have questions (<a href="mailto:cr065@uark.edu" class="email">cr065@uark.edu</a>).</p>
 <!-- #### Undergraduate Research -->
 <!-- Recent research projects completed in the lab. -->
@@ -395,11 +316,10 @@ div.tocify {
 <!-- knitr::kable(undergrad_df) -->
 <!-- ``` -->
 </div>
-
-
-
 </div>
-</div>
+
+
+
 
 </div>
 
@@ -432,32 +352,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3,h4",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

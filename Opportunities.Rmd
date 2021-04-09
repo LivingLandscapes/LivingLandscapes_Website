@@ -2,8 +2,8 @@
 title: "Join the Lab"
 output: 
   html_document:
-    toc: true
-    toc_float: true
+    # toc: true
+    # toc_float: true
     collapsed: false
     number_sections: false
     toc_depth: 4
@@ -12,15 +12,9 @@ output:
     css: front.css
 ---
 
-The Living Landscapes Lab is part of the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). That means our mission is to co-produce research with and provide support for our cooperators at Arkansas Game & Fish Commission, the U.S. Fish & Wildlife Service, the Wildlife Management Institute, and the public. Students will have unique opportunities to work closely with cooperators on issues that will directly apply to state, regional, and national conservation decisions and management.
+If you're interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check the job announcements below or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
 
-So if you're interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check below or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
-
----
-
-#### We're commited to diversity, equity, and inclusion
-
-In the Living Landscapes Lab, we seek to create, keep, and spread a climate of positivity and inclusiveness. We embrace and encourage lab members’ differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, race, religion, sexual orientation, socio-economic status, and other characteristics that make us unique. To these ends, the Living Landscapes Lab encourages and enforces:
+In our lab, we seek to create, keep, and spread a climate of positivity and inclusiveness. To this end, the Living Landscapes Lab encourages and enforces:
 
 - Respectful communication and cooperation
 - The need for both words and action to combat systemic inequities
@@ -28,8 +22,9 @@ In the Living Landscapes Lab, we seek to create, keep, and spread a climate of p
 - The importance of every voice 
 - The value of life outside of the lab
 
+### Job Announcements
 
-#### Now hiring
+##### Master's Assistantship - invasive species ecology and management
 
 Interested in invasive species? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). The student would start August 2021. For more information and how to apply, check out this [link](). Let me know via email if you have questions (cr065@uark.edu).
 
