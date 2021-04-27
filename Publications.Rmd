@@ -126,7 +126,7 @@ for(i in 1:dims[1]){
 <!--  <script src="https://bibbase.org/show?bib=https://crumplab.github.io/Crump.bib&jsonp=1&nocache=1&theme=side&authorFirst=1"></script>  -->
 
 ## Published
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Flivinglandscapes.github.io%2FLivingLandscapes_Website%2FWebsite_Pubs.bib&commas=true&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Flivinglandscapes.github.io%2FLivingLandscapes_Website%2FPublications_cache%2FWebsite_Pubs.bib&commas=true&jsonp=1"></script> 
 
 
 
