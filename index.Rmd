@@ -52,9 +52,9 @@ email: cr065@uark.edu
 </div>
 <div class="col-sm-6"  style="padding-top: 50px;">
 
-If you are interested in landscapes, global change, invasive species, wildlife, or agroecosystems, [check out  opportunities in the lab](https://livinglandscapes.github.io/RobertsLabWebsite2/Opportunities.html) and send me an email (cr065@uark.edu).
+We are the Living Landscapes Lab, led by Dr. Caleb Roberts. We are part of the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas), and our mission is to co-produce research with and provide support for our cooperators at Arkansas Game & Fish Commission, the U.S. Fish & Wildlife Service, the Wildlife Management Institute, the [University of Arkansas]((https://fulbright.uark.edu/departments/biology/index.php)), and the public. We work closely with cooperators on issues that directly apply to state, regional, and national conservation decisions and management.
 
-The Living Landscapes Lab is located in the [Department of Biological Sciences](https://fulbright.uark.edu/departments/biology/index.php) at [University of Arkansas](https://www.uark.edu/).
+If you're interested in joining the Living Landscapes Lab, check out the [job announcements](https://livinglandscapes.github.io/LivingLandscapes_Website/Opportunities.html) or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
 
 ### News
 

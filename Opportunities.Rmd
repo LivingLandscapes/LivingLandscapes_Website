@@ -1,9 +1,9 @@
 ---
-title: "Research opportunities"
+title: "Join the Lab"
 output: 
   html_document:
-    toc: true
-    toc_float: true
+    # toc: true
+    # toc_float: true
     collapsed: false
     number_sections: false
     toc_depth: 4
@@ -12,13 +12,21 @@ output:
     css: front.css
 ---
 
-<!-- #### Now hiring -->
+If you're interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check the job announcements below or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
 
-<!-- Interested in invasive species? Are you into waterfowl? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). The student would start August 2021. For more information and how to apply, check out this [link](). Let me know via email if you have questions (cr065@uark.edu). -->
+In our lab, we seek to create, keep, and spread a climate of positivity and inclusiveness. To this end, the Living Landscapes Lab encourages and enforces:
 
-#### Prospective graduate students
+- Respectful communication and cooperation
+- The need for both words and action to combat systemic inequities
+- Collaboration -- not competition
+- The importance of every voice 
+- The value of life outside of the lab
 
-I'm on the lookout for new students to work on a variety of wildlife-related projects with our cooperators at Arkansas Game & Fish Commission. If you're interested, send me an email with your CV (cr065@uark.edu).
+### Job Announcements
+
+##### Master's Assistantship - invasive species ecology and management
+
+Interested in invasive species? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). The student would start August 2021. For more information and how to apply, check out this [link](https://wfscjobs.tamu.edu/jobs/masters-assistantship-invasive-waterfowl-ecology-and-management-arkansas/). Let me know via email if you have questions (cr065@uark.edu).
 
 <!-- #### Undergraduate Research -->
 
