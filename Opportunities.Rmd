@@ -12,9 +12,9 @@ output:
     css: front.css
 ---
 
-#### Now hiring
+<!-- #### Now hiring -->
 
-Interested in invasive species? Are you into waterfowl? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). The student would start August 2021. For more information and how to apply, check out this [link](). Let me know via email if you have questions (cr065@uark.edu).
+<!-- Interested in invasive species? Are you into waterfowl? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). The student would start August 2021. For more information and how to apply, check out this [link](). Let me know via email if you have questions (cr065@uark.edu). -->
 
 #### Prospective graduate students
 
