@@ -1,6 +1,6 @@
 ---
 title: "Living Landscapes Lab"
-cover-image: "/images/logo2.png"
+cover-image: "/images/LoessCanyons_Fire.JPG"
 description: "Living Landscapes Lab"
 output: 
   html_document:
@@ -15,7 +15,7 @@ CON <- file("header.html")
 
 writeLines('<meta name="twitter:title" content="Living Landscapes Lab ">
 <meta name="twitter:description" content=" Lab web page - Caleb Roberts - U.S. Geological Survey">
-<meta name="twitter:image" content=" https://LivingLandscapes.github.io/images/logo2.png">
+<meta name="twitter:image" content=" https://LivingLandscapes.github.io/images/LoessCanyons_Fire.JPG">
 <meta name="twitter:card" content="summary">',CON)
 
 close(CON)
@@ -36,7 +36,7 @@ close(CON)
 <div class="col-sm-6">
 
 ```{r logo, out.width="100%", echo=FALSE, fig.align="center", out.extra="id=logo"}
-knitr::include_graphics("images/logo2.jpg")
+knitr::include_graphics("images/LoessCanyons_Fire.JPG")
 ```
 
 ### Contact 
