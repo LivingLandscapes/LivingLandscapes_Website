@@ -1,0 +1,34 @@
+---
+title: "People"
+output: 
+  html_document:
+    includes:
+       in_header: g_analytics.html
+---
+
+Last updated: April 8, 2021
+
+| Current | Info |
+|:--------|-------:|
+| Caleb Roberts | PI, email: cr065@uark.edu |
+<!-- | Someone New! | ![](images/ProfilePic_CalebRoberts.jpg){width=25%} | Master's Student, email: | -->
+
+<!-- -------- -->
+
+<!-- ### Previous Lab Members -->
+
+<!-- #### Postdoctoral -->
+
+<!-- - [Dr. Lawrence Behmer](https://www.luc.edu/psychology/people/faculty/facultystaff/lawrencebehmer/) (2014-2017), currently @ Loyola University Chicago -->
+
+<!-- #### Doctoral -->
+
+<!-- - [Dr. Nicholaus Brosowsky](https://nbrosowsky.github.io/index.html) (2014-2019), currently a postdoc @ Duke University -->
+
+<!-- #### Masters -->
+
+<!-- - 2016: Ashot Balayan, "Subjective Confidence in the Evaluations of Typing Speed:Testing the Self-Consistency Model", Master's Thesis -->
+
+<!-- #### Undergraduate -->
+
+<!-- - 2019: Mark Rayev, "Deception detection through word usage and word production time in typing", Undergraduate Macaulay Honors -->
