@@ -13,29 +13,15 @@
 
 <title>People</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<style>h1 {font-size: 34px;}
-       h1.title {font-size: 38px;}
-       h2 {font-size: 30px;}
-       h3 {font-size: 24px;}
-       h4 {font-size: 18px;}
-       h5 {font-size: 16px;}
-       h6 {font-size: 12px;}
-       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
-       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79429674-1"></script>
 <script>
@@ -53,9 +39,14 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-    </style>
+      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -68,7 +59,32 @@ if (window.hljs) {
 
 
 
-
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
 
 
 
@@ -78,6 +94,10 @@ if (window.hljs) {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -94,13 +114,40 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
-pre code {
-  padding: 0;
-}
 </style>
 
 
 <style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
 .dropdown-submenu {
   position: relative;
 }
@@ -128,7 +175,7 @@ pre code {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
+  border-left-color: #ffffff;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -140,7 +187,7 @@ pre code {
 }
 </style>
 
-<script type="text/javascript">
+<script>
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -151,23 +198,10 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.tab('show');
+  menuAnchor.parent().addClass('active');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
 });
 </script>
 
@@ -179,6 +213,7 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
+  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -268,7 +303,7 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="https://twitter.com/calebproberts">
-    <span class="fab fa-twitter"></span>
+    <span class="fab fa fab fa-twitter"></span>
      
      
   </a>
@@ -281,7 +316,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div id="header">
+<div class="fluid-row" id="header">
 
 
 
@@ -290,66 +325,32 @@ $(document).ready(function () {
 </div>
 
 
-<p>Lab members listed alphabetically by last name. Last updated: June 14, 2021.</p>
-<table class=" lightable-paper" style="font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
+<p>Last updated: April 8, 2021</p>
+<table>
 <thead>
-<tr>
-<th style="text-align:left;">
-</th>
-<th style="text-align:left;">
-</th>
-<th style="text-align:left;">
-</th>
-<th style="text-align:left;">
-</th>
-<th style="text-align:left;">
-</th>
+<tr class="header">
+<th align="left">Current</th>
+<th align="right">Info</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:left;width: 10em; font-weight: bold;background-color: #999990 !important;">
-Percy Marshall
-</td>
-<td style="text-align:left;width: 15em; ">
-Master’s Student
-</td>
-<td style="text-align:left;width: 10em; background-color: #999990 !important;border-right:1px solid;">
-</td>
-<td style="text-align:left;width: 20em; ">
-Percy’s research interests include behavioral ecology, landscape dynamics,and conservation ecology. They are specifically interested in the impacts of invasive waterfowl species on both natural ecosystems and private property. Percy’s research will focus on cataloging distribution and abundance data on Egyptian Geese within Arkansas. They will be working towards understanding the risks that the waterfowl pose to human and ecological interests and helping better prepare for any management tactics that may be needed in the future.
-</td>
-<td style="text-align:left;width: 25em; ">
-<html>
-<body>
-<img src="images/ProfilePics/ProfilePic_PercyMarshall.jpg">
-</body>
-</html>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 10em; font-weight: bold;background-color: #999990 !important;">
-Caleb Roberts
-</td>
-<td style="text-align:left;width: 15em; ">
-PI
-</td>
-<td style="text-align:left;width: 10em; background-color: #999990 !important;border-right:1px solid;">
-<a href="mailto:cr065@uark.edu" class="email">cr065@uark.edu</a>
-</td>
-<td style="text-align:left;width: 20em; ">
-Caleb is the leader of the Living Landscapes Lab. He works for the U.S. Geological Survey as an Assistant Unit Leader at the Arkansas Cooperative Fish &amp; Wildlife Research Unit. Caleb’s research interests include ecological resilience, grasslands, landscape ecology, fire, birds, invasive species, plants, community ecology, agroecosystems, complexity theory, and rangelands. Caleb is from western Kentucky, and he enjoys writing, running, reading, cooking, gardening, board games, hiking, and hanging out with his wife, daughter, and cat.
-</td>
-<td style="text-align:left;width: 25em; ">
-<html>
-<body>
-<img src="images/ProfilePics/ProfilePic_CalebRoberts.JPG">
-</body>
-</html>
-</td>
+<tr class="odd">
+<td align="left">Caleb Roberts</td>
+<td align="right">PI, email: <a href="mailto:cr065@uark.edu" class="email">cr065@uark.edu</a></td>
 </tr>
 </tbody>
 </table>
+<!-- | Someone New! | ![](images/ProfilePic_CalebRoberts.jpg){width=25%} | Master's Student, email: | -->
+<!-- -------- -->
+<!-- ### Previous Lab Members -->
+<!-- #### Postdoctoral -->
+<!-- - [Dr. Lawrence Behmer](https://www.luc.edu/psychology/people/faculty/facultystaff/lawrencebehmer/) (2014-2017), currently @ Loyola University Chicago -->
+<!-- #### Doctoral -->
+<!-- - [Dr. Nicholaus Brosowsky](https://nbrosowsky.github.io/index.html) (2014-2019), currently a postdoc @ Duke University -->
+<!-- #### Masters -->
+<!-- - 2016: Ashot Balayan, "Subjective Confidence in the Evaluations of Typing Speed:Testing the Self-Consistency Model", Master's Thesis -->
+<!-- #### Undergraduate -->
+<!-- - 2019: Mark Rayev, "Deception detection through word usage and word production time in typing", Undergraduate Macaulay Honors -->
 
 
 
@@ -360,7 +361,7 @@ Caleb is the leader of the Living Landscapes Lab. He works for the U.S. Geologic
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -378,7 +379,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open');
+    $(this).parent().toggleClass('nav-tabs-open')
   });
 });
 </script>
