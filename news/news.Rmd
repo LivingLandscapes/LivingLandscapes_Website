@@ -8,12 +8,21 @@ output:
        in_header: [open_parent.html]
 ---
 
+
+<style type="text/css">
+
+body, td {
+  font-size: 12px;
+}
+
+</style>
+
 ---
 
 June 2021
 
 - Very happy to announce that Percy Marshall will be joining the Living Landscapes Lab this fall! They will be pursuing their MS and studying invasive waterfowl.
-- Also, ANOTHER [publication](https://www.ecologyandsociety.org/vol26/iss2/art27/) led by Dr. Donovan?? Very proud to have contributed to this and to top off our Pine Ridge, Nebraska + fire + resilience research with such an awesome article!
+- Also, very proud to be a coauthor on another [publication](https://www.ecologyandsociety.org/vol26/iss2/art27/) led by Dr. Donovan! It's the best of our fire + resilience + savanna/grassland ecotone papers yet!
 
 ---
 

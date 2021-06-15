@@ -6,7 +6,7 @@ output:
        in_header: g_analytics.html
 ---
 
-Lab members listed alphabetically by last name. Last updated: June 14, 2021.
+Lab members listed alphabetically by last name. Last updated: June 15, 2021.
 
 ```{r, echo = FALSE, include = FALSE}
 # List of packages necessary to run this script:
@@ -54,10 +54,10 @@ setnames(people_tbl, names(people_tbl), rep("", ncol(people_tbl)))
 # Create html table with people info
 kbl(people_tbl) %>%
   kable_paper(full_width = F) %>%
-  column_spec(1, bold = TRUE, border_right = FALSE, background = "#999990", 
+  column_spec(1, bold = TRUE, border_right = FALSE, 
               width = "10em") %>%
   column_spec(2, bold = FALSE, border_right = FALSE, width = "15em") %>%
-  column_spec(3, bold = FALSE, border_right = TRUE, background = "#999990", 
+  column_spec(3, bold = FALSE, border_right = FALSE, 
               width = "10em") %>%
   column_spec(4, width = "20em") %>%
   column_spec(5, width = "25em", image = profile_pics)

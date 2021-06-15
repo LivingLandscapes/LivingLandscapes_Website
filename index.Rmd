@@ -26,6 +26,10 @@ close(CON)
   display: none;
 }
 
+body, td {
+  font-size: 12px;
+}
+
 #getting-started img {
   margin-right: 10px;
 }
@@ -33,11 +37,13 @@ close(CON)
 </style>
 
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-3"  style="padding-top: 50px;">
 
-```{r logo, out.width="100%", echo=FALSE, fig.align="center", out.extra="id=logo"}
-knitr::include_graphics("images/LoessCanyons_Fire.JPG")
-```
+### Welcome to the Living Landscapes Lab website!
+
+We are the Living Landscapes Lab, led by Dr. Caleb Roberts. We are part of the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas), and our mission is to co-produce research with and provide support for our cooperators at Arkansas Game & Fish Commission, the U.S. Fish & Wildlife Service, the Wildlife Management Institute, the [University of Arkansas](https://fulbright.uark.edu/departments/biology/index.php), and the public. We work closely with cooperators on issues that directly apply to state, regional, and national conservation decisions and management.
+
+If you're interested in joining the Living Landscapes Lab, check out the [job announcements](https://livinglandscapes.github.io/LivingLandscapes_Website/Opportunities.html) or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
 
 ### Contact 
 
@@ -50,15 +56,18 @@ Office: SCEN 519
 email: cr065@uark.edu 
 
 </div>
-<div class="col-sm-6"  style="padding-top: 50px;">
+<div class="col-sm-5">
 
-We are the Living Landscapes Lab, led by Dr. Caleb Roberts. We are part of the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas), and our mission is to co-produce research with and provide support for our cooperators at Arkansas Game & Fish Commission, the U.S. Fish & Wildlife Service, the Wildlife Management Institute, the [University of Arkansas]((https://fulbright.uark.edu/departments/biology/index.php)), and the public. We work closely with cooperators on issues that directly apply to state, regional, and national conservation decisions and management.
+```{r logo, out.width="100%", echo=FALSE, fig.align="center", out.extra="id=logo"}
+knitr::include_graphics("images/LoessCanyons_Fire.JPG")
+```
 
-If you're interested in joining the Living Landscapes Lab, check out the [job announcements](https://livinglandscapes.github.io/LivingLandscapes_Website/Opportunities.html) or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
+</div>
+<div class="col-sm-3"  style="padding-top: 50px;">
 
 ### News
 
-<iframe src="news/news.html" title="news" style='height:400px;width:100%;overflow:auto;border:0px solid #49c5b6;padding:2%'></iframe>
+<iframe src="news/news.html" title="news" style='height:600px;width:100%;overflow:auto;border:0px solid #49c5b6;padding:2%'></iframe>
 
 </div>
 </div>
