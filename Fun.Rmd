@@ -25,17 +25,17 @@ At the Living Landscapes Lab, we encourage cross-disciplinary work, creativity, 
 <div class="row">
 <div class="col-sm-8">
 
-#### [*To Hold a Beautiful, Burning Snake*](https://www.terrain.org/2018/nonfiction/hold-beautiful-burning-snake/)
+#### [*Capture Mark Recapture*](https://www.terrain.org/2021/nonfiction/capture-mark-recapture/)
 
 An essay by Caleb Roberts. Published at Terrain.org.
 
-Photo by Christine Chitwood. 
+Photo by Caleb Roberts. 
 
 
 </div>
 <div class="col-sm-4">
-```{r rs, out.width='100%', echo=F}
-knitr::include_graphics("images/fun/RS.jpg")
+```{r cmr, out.width='100%', echo=F}
+knitr::include_graphics("images/fun/CMR.jpg")
 ```
 </div>
 </div>
@@ -44,6 +44,8 @@ knitr::include_graphics("images/fun/RS.jpg")
 
 <div class="row">
 <div class="col-sm-8">
+
+
 
 #### [*I Want to Know Why I Kill*](https://www.thefourthriver.com/o7-content/2020/2/21/i-want-to-know-why-i-kill)
 
@@ -59,6 +61,27 @@ knitr::include_graphics("images/fun/VO.jpg")
 ```
 </div>
 </div>
+
+----
+
+<div class="row">
+<div class="col-sm-8">
+
+#### [*To Hold a Beautiful, Burning Snake*](https://www.terrain.org/2018/nonfiction/hold-beautiful-burning-snake/)
+
+An essay by Caleb Roberts. Published at Terrain.org.
+
+Photo by Christine Chitwood. 
+
+
+</div>
+<div class="col-sm-4">
+```{r rs, out.width='100%', echo=F}
+knitr::include_graphics("images/fun/RS.jpg")
+```
+</div>
+</div>
+
 
 <!-- ---- -->
 
