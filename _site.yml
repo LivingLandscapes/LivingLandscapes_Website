@@ -6,6 +6,8 @@ navbar:
   left:
     - text: "People"
       href: People.html
+    - text: "Research"
+      href: Research.html
     - text: "Publications"
       href: Publications.html
     - text: "Join The Lab"
