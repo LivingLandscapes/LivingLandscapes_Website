@@ -12,6 +12,13 @@ output:
     css: front.css
 ---
 
+<style>
+p.caption {
+  font-size: 0.8em;
+}
+</style>
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
@@ -48,7 +55,7 @@ Globally, invasive species are one of the biggest drivers of biodiversity and ag
 
 </div>
 <div class="col-sm-4">
-```{r EgyptianGeese, fig.cap = "'A pair of Egyptian Geese on Norfolk's river Yare at Brundall' by Ian-S is licensed with CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/. No changes were made.", out.width='100%', echo=F}
+```{r EgyptianGeese, fig.cap = "'A pair of Egyptian Geese on Norfolk's river Yare at Brundall' by Ian-S is licensed with CC BY-NC 2.0.", out.width='100%', echo=F}
 knitr::include_graphics("images/research/EgyptianGeese_lan-S.jpg")
 ```
 </div>
@@ -66,7 +73,7 @@ The King Rail (*Rallus elegans*) is an emergent wetland species of high conserva
 
 </div>
 <div class="col-sm-4">
-```{r KingRail, fig.cap = "'King Rail' by dermoidhome is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/. No changes were made.", out.width='100%', echo=F}
+```{r KingRail, fig.cap = "'King Rail' by dermoidhome is licensed with CC BY-NC-ND 2.0.", out.width='100%', echo=F}
 knitr::include_graphics("images/research/KingRail_dermoidhome.jpg")
 ```
 </div>
@@ -84,7 +91,7 @@ The Eastern Spotted Skunk (*Spilogale putorius*) presents a unique conservation 
 
 </div>
 <div class="col-sm-4">
-```{r EasternSpottedSkunk, fig.cap = "'Eastern spotted skunk' by FWC Research is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/", out.width='100%', echo=F}
+```{r EasternSpottedSkunk, fig.cap = "'Eastern spotted skunk' by FWC Research is licensed with CC BY-NC-ND 2.0.", out.width='100%', echo=F}
 knitr::include_graphics("images/research/EasternSpottedSkunk_FWCResearch.jpg")
 ```
 </div>

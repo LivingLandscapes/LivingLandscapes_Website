@@ -8,8 +8,8 @@ h1 {
     font-weight: 700;
     font-size: 40px;
     text-align: left;
-    margin: -40px;
-    margin-left: -40px;
+    margin: 30px;
+    margin-left: 0px;
 }
 
 .section h1 {
@@ -48,8 +48,8 @@ h4 {
 }
 
 .section h4 {
-  padding-top: 0px !important;
-  margin-top:  0px !important;
+  padding-top: 10px !important;
+  margin-top:  10px !important;
 }
 
 p {
