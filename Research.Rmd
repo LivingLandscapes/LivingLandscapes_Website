@@ -23,20 +23,17 @@ p.caption {
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-----
-
 <div class="row">
 <div class="col-sm-8">
 
-#### *Conservation Outcomes in Great Plains Rangelands*
+#### *A rapid mapping tool for quantifying grassland management outcomes*
 
-For the past several decades, scientific research has quantified catastrophic outcomes to rangeland resources due to woody plant encroachment, including collapses in livestock production potential and rancher profitability, increasing risks of wildfire danger and water security, displacement of wildlife habitat, and losses to important social and community programs (e.g., revenue generated for public school education). However, scientific documentation of positive conservation management and strategy outcomes is limited. This leads to slower widespread adoption of 'winning' strategies. In this project, we leverage major advancements in monitoring technology (e.g., the Rangeland Analysis Platform) alongside various wildlife datasets to provide more rapid outcomes-generation for partners across the Great Plains. Quantifying spatially-explicit changes in rangeland productivity, cover, and state transitions is central to this approach and have served to better understand complex responses of more specialized outcomes-based assessments. This project is a collaboration between the Arkansas Cooperative Fish & Wildlife Research Unit, University of Montana, University of Nebraska-Lincoln, and Natural Resource Conservation Service (NRCS). Primary project deliverables are (1) a synthesis of existing NRCS technical guidance related to juniper encroachment in the Great Plains, (2) documentation improved management of productivity, cover, state transitions, and grassland wildlife diversity and abundance in the Great Plains. Timely documentation the benefits of new conservation practices will equip agencies and private lands managers to tackle the woody encroachment problem in the Great Plains. 
-
+In grasslands, the North American biome with the greatest loss of biodiversity, documentation of successful restoration and management is imperative for building large-scale restoration programs. However, quantifying outcomes from grassland management efforts is made difficult by the lack of tools to rapidly map and track core grassland habitats and grassland biodiversity responses to management. In this project, we will address this need by developing a rapid mapping tool to quantify grassland management outcomes on public and private lands. To accomplish this, we will complete two objectives: 1) develop a tool to identify and map grassland habitat cores, and 2) use this tool to quantify grassland habitat core and grassland bird community responses to management in and surrounding three US Fish & Wildlife Service Arkansas refuges, focusing on Southeastern grassland species of conservation concern. Tools and products from this project will facilitate grassland management strategies in the Arkansas FWS refuges, provide grassland bird community and population trends, and will help determine the applicability of this approach for public and private lands across the Southeast region. Other collaborators include Arkansas Game & Fish Commission, USDA Natural Resources Conservation Service, and Quail Forever.
 
 </div>
 <div class="col-sm-4">
-```{r ConservationRangelands, fig.cap = "'Prescribed fire in Great Plains' by Caleb Roberts", out.width='100%', echo=F}
-knitr::include_graphics("images/research/ConservationRangelands_CalebRoberts.JPG")
+```{r Bobwhite, fig.cap = "'Northern Bobwhite, Bento Co., IN' by Caleb Putnam is licensed with CC BY-NC 2.0.", out.width='100%', echo=F}
+knitr::include_graphics("images/research/Bobwhite_larus10.jpg")
 ```
 </div>
 </div>
@@ -45,8 +42,6 @@ knitr::include_graphics("images/research/ConservationRangelands_CalebRoberts.JPG
 
 <div class="row">
 <div class="col-sm-8">
-
-
 
 #### *Impacts of Egyptian Geese and other invasive aquatic avifauna*
 
@@ -97,7 +92,21 @@ knitr::include_graphics("images/research/EasternSpottedSkunk_FWCResearch.jpg")
 </div>
 </div>
 
+----
+
+<div class="row">
+<div class="col-sm-8">
+
+#### *Conservation Outcomes in Great Plains Rangelands*
+
+For the past several decades, scientific research has quantified catastrophic outcomes to rangeland resources due to woody plant encroachment, including collapses in livestock production potential and rancher profitability, increasing risks of wildfire danger and water security, displacement of wildlife habitat, and losses to important social and community programs (e.g., revenue generated for public school education). However, scientific documentation of positive conservation management and strategy outcomes is limited. This leads to slower widespread adoption of 'winning' strategies. In this project, we leverage major advancements in monitoring technology (e.g., the Rangeland Analysis Platform) alongside various wildlife datasets to provide more rapid outcomes-generation for partners across the Great Plains. Quantifying spatially-explicit changes in rangeland productivity, cover, and state transitions is central to this approach and have served to better understand complex responses of more specialized outcomes-based assessments. This project is a collaboration between the Arkansas Cooperative Fish & Wildlife Research Unit, University of Montana, University of Nebraska-Lincoln, and Natural Resource Conservation Service (NRCS). Primary project deliverables are (1) a synthesis of existing NRCS technical guidance related to juniper encroachment in the Great Plains, (2) documentation improved management of productivity, cover, state transitions, and grassland wildlife diversity and abundance in the Great Plains. Timely documentation the benefits of new conservation practices will equip agencies and private lands managers to tackle the woody encroachment problem in the Great Plains. 
 
 
-
+</div>
+<div class="col-sm-4">
+```{r ConservationRangelands, fig.cap = "'Prescribed fire in Great Plains' by Caleb Roberts", out.width='100%', echo=F}
+knitr::include_graphics("images/research/ConservationRangelands_CalebRoberts.JPG")
+```
+</div>
+</div>
 
