@@ -21,9 +21,9 @@ body, td {
 
 February 2022
 
-- Big news!! We got a grant with US Fish & Wildlife Service to develop a mapping tool to quantify grassland management outcomes. See the new project on the [Research](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html) page.
+- Big news!! We got a grant with the US Fish & Wildlife Service to develop a mapping tool to quantify grassland management outcomes. See the new project on the [Research](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html) page.
 - We're hiring two summer technicians!! Check out the [job ad](https://wfscjobs.tamu.edu/jobs/bird-vegetation-survey-technicians-2-for-eastern-arkansas/) for more information.
-- Also, if you're interested in ecological resilience and thinking "wombling" is a hilarious word, check out our new [paper](https://www.sciencedirect.com/science/article/pii/S1470160X22000383) in *Ecological Indicators*.
+- Also, if you're interested in ecological resilience and think "wombling" is a hilarious word, check out our new [paper](https://www.sciencedirect.com/science/article/pii/S1470160X22000383) in *Ecological Indicators*.
 
 ---
 
