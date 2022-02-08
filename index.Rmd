@@ -61,8 +61,8 @@ Fayetteville, AR, 850 W Dickson St;
 Office: SCEN 519
 email: cr065@uark.edu 
 
-```{r logo, echo=FALSE, fig.align="left", out.extra="id=logo", out.width="60%"}
-knitr::include_graphics("images/LoessCanyons_Fire.JPG")
+```{r logo, echo=FALSE, fig.align="left", out.extra="id=logo", out.width="100%"}
+knitr::include_graphics("images/LoessCanyons_Fire_2.JPG")
 ```
 
 </div>
