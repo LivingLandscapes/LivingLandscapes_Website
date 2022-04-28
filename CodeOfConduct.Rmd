@@ -12,17 +12,6 @@ output:
     css: front.css
 ---
 
-<style>
-p.caption {
-  font-size: 0.8em;
-}
-</style>
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
