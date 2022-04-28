@@ -13,7 +13,7 @@ navbar:
     - text: "Join The Lab"
       href: Opportunities.html
     - text: "Code of Conduct"
-      href: CodeofConduct.html
+      href: CodeOfConduct.html
     - text: "Fun"
       href: Fun.html
     - text: " "
