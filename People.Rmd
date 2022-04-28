@@ -36,7 +36,7 @@ profile_pics <- unlist(profile_pics$profilePicFiles)
 people_tbl <- data.frame(
   Members = c("Caleb Roberts", "Percy Marshall", "Mike Shaw", "Jess Schmit"),
   Roles = c("PI", "Master's Student", "Master's Student", "Master's Student"),
-  Contact = c("cr065@uark.edu", "pmm005@uark.edu", "ms161@uark.edu", ""),
+  Contact = c("cr065@uark.edu", "pmm005@uark.edu", "ms161@uark.edu", "jmschmit@uark.edu"),
   Bios = c(
     "Caleb is the leader of the Living Landscapes Lab. He works for the U.S. Geological Survey as an Assistant Unit Leader at the Arkansas Cooperative Fish & Wildlife Research Unit. Caleb's research interests include ecological resilience, grasslands, landscape ecology, fire, birds, invasive species, plants, community ecology, agroecosystems, complexity theory, and rangelands. Caleb is from western Kentucky, and he enjoys writing, running, reading, cooking, gardening, board games, hiking, and hanging out with his wife, daughter, and cat. ",
     "Percy's research interests include behavioral ecology, landscape dynamics,and conservation ecology. They are specifically interested in the impacts of invasive waterfowl species on both natural ecosystems and private property. Percy's research will focus on cataloging distribution and abundance data on Egyptian Geese within Arkansas. They will be working towards understanding the risks that the waterfowl pose to human and ecological interests and helping better prepare for any management tactics that may be needed in the future. ",

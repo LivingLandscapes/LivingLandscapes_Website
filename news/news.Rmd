@@ -19,6 +19,20 @@ body, td {
 
 ---
 
+April 2022
+
+- If you're interested in how large-scale fire and grassland restoration gets done, check out our [AERLive](https://www.britishecologicalsociety.org/applied-ecology-resources/updates-and-events/aer-live/restoration-through-fire-tue-05-apr-2022/) workshop!
+- One of our photos made the cover of [Ecological Solutions and Evidence](https://appliedecologistsblog.com/2022/04/26/behind-the-cover-0302/)! 
+- Rare birds? Regime shifts? Scale detection via Asymmetric Eigenvector Maps?? Check out our new ms in [Frontiers in Ecology and Evolution](https://www.frontiersin.org/articles/10.3389/fevo.2022.849944/full) if you're interested in a quirky look at spatial resilience.
+
+---
+
+March 2022
+
+- The Wildlife Society covered our paper! Check out their [news feed](https://wildlife.org/for-grassland-birds-the-prescription-is-fire/).
+
+---
+
 February 2022
 
 - Big news!! We got a grant with the US Fish & Wildlife Service to develop a mapping tool to quantify grassland management outcomes. See the new project on the [Research](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html) page.
