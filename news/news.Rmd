@@ -19,6 +19,12 @@ body, td {
 
 ---
 
+May 2022
+
+- Targeted grazing or tree thinning: which best improves forest stand resilience to wildfire (i.e., crown fires)? For answers, check out our [new paper in Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4061).
+
+---
+
 April 2022
 
 - If you're interested in how large-scale fire and grassland restoration gets done, check out our [AERLive](https://www.britishecologicalsociety.org/applied-ecology-resources/updates-and-events/aer-live/restoration-through-fire-tue-05-apr-2022/) workshop!
