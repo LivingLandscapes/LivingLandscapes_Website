@@ -19,6 +19,13 @@ body, td {
 
 ---
 
+June 2022
+
+- We're very excited to welcome [Lauren Berry](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) to the Living Landscapes Lab! Lauren will be using bird community and remote sensing data to quantify grassland management outcomes for USFWS refuges.
+- Super excited that National Public Radio covered our research on grassland restoration in the Loess Canyons! Read the article [here](https://www.npr.org/sections/pictureshow/2022/06/07/1101257256/neighbors-use-prescribed-fire-to-restore-great-plains-grasslands).
+
+---
+
 May 2022
 
 - Targeted grazing or tree thinning: which best improves forest stand resilience to wildfire (i.e., crown fires)? For answers, check out our [new paper in Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4061).
