@@ -19,6 +19,12 @@ body, td {
 
 ---
 
+July 2022
+
+- [Audubon Magazine](https://www.audubon.org/magazine/summer-2022/in-nebraskas-loess-canyons-setting-trees-ablaze) just covered our fire-grassland bird restoration research! Many thanks to the Working Land for Wildlife folks who are getting the good word out!
+
+---
+
 June 2022
 
 - We're very excited to welcome [Lauren Berry](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) to the Living Landscapes Lab! Lauren will be using bird community and remote sensing data to quantify grassland management outcomes for USFWS refuges.
