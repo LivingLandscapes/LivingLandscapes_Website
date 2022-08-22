@@ -19,6 +19,13 @@ body, td {
 
 ---
 
+August 2022
+
+- [Ken Wilson](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) joined the Living Landscapes Lab this fall! Ken will be quantifying feral hog impacts on vegetation and ground-nesting birds in southeastern Arkansas USFWS refuges. Welcome, Ken!
+- Speaking of Ken's project, check out the new project we're kickstarting this fall: [Assessing Wild Pig Impacts to Ecosystem Services: A Case Study on Diet, Density, and Space Use of Wild Pigs on the South Arkansas National Wildlife Refuge Complex](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html). This is a USFWS/USGS funded project, and we're very excited to get into the messy world of feral hogs.
+
+---
+
 July 2022
 
 - [Audubon Magazine](https://www.audubon.org/magazine/summer-2022/in-nebraskas-loess-canyons-setting-trees-ablaze) just covered our fire-grassland bird restoration research! Many thanks to the Working Land for Wildlife folks who are getting the good word out!

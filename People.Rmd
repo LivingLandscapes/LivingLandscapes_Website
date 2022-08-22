@@ -1,9 +1,10 @@
 ---
 title: "People"
-output: 
+output:
+  pdf_document: default
   html_document:
     includes:
-       in_header: g_analytics.html
+      in_header: g_analytics.html
 ---
 
 Lab members listed alphabetically by last name. Last updated: June 2, 2022.
@@ -34,15 +35,16 @@ profile_pics <- unlist(profile_pics$profilePicFiles)
 
 # Create data.frame with lab member info
 people_tbl <- data.frame(
-  Members = c("Caleb Roberts", "Percy Marshall", "Mike Shaw", "Jess Schmit", "Lauren Berry"),
-  Roles = c("PI", "Master's Student", "Master's Student", "Master's Student", "Master's Student"),
-  Contact = c("cr065@uark.edu", "pmm005@uark.edu", "ms161@uark.edu", "jmschmit@uark.edu", "llberry@uark.edu"),
+  Members = c("Caleb Roberts", "Percy Marshall", "Mike Shaw", "Jess Schmit", "Lauren Berry", "Ken Wilson"),
+  Roles = c("PI", "Master's Student", "Master's Student", "Master's Student", "Master's Student", "Master's Student"),
+  Contact = c("cr065@uark.edu", "pmm005@uark.edu", "ms161@uark.edu", "jmschmit@uark.edu", "llberry@uark.edu", "kw101@uark.edu"),
   Bios = c(
     "Caleb is the leader of the Living Landscapes Lab. He works for the U.S. Geological Survey as an Assistant Unit Leader at the Arkansas Cooperative Fish & Wildlife Research Unit. Caleb's research interests include ecological resilience, grasslands, landscape ecology, fire, birds, invasive species, plants, community ecology, agroecosystems, complexity theory, and rangelands. Caleb is from western Kentucky, and he enjoys writing, running, reading, cooking, gardening, board games, hiking, and hanging out with his wife, daughter, and cat.",
     "Percy's research interests include behavioral ecology, landscape dynamics,and conservation ecology. They are specifically interested in the impacts of invasive waterfowl species on both natural ecosystems and private property. Percy's research will focus on cataloging distribution and abundance data on Egyptian Geese within Arkansas. They will be working towards understanding the risks that the waterfowl pose to human and ecological interests and helping better prepare for any management tactics that may be needed in the future. ",
     "Mike’s research interests are in mammal ecology, and he will be studying Eastern Spotted Skunk (Spilogale putorius) in southwest Arkansas. He will be using camera traps to document the presence of Eastern spotted skunk and observe habitat associations. Mike worked in Colorado as a wildlife technician for Colorado Parks and Wildlife and moved to Maryland after his position in Colorado. In Maryland, he worked for county government as a wildlife management specialist. Mike is from eastern Maine, and he enjoys hiking, weightlifting, kayaking, and boardgames.",
     "Jess is incredibly excited to be joining the Living Landscapes Lab as a Masters’ student studying King Rails in Arkansas.  Her research interests are avian and wetland ecology, endangered species, habitat selection and resiliency in relation to climate change. Jess’ project will focus on King Rail breeding,  ecology, distribution and abundance in Arkansas, as well as their site selection and habitat use. She has been working as a wetland bird field technician for the last five years and has been blessed to work with a variety of species. Her last three years of work have been focused on rails, and she loves the challenge of working with these intelligent birds. Jess has a mailing address in Pennsylvania but is hardly home! When she isn’t in the field, she enjoys reading, kayaking, finding great local breakfast places wherever she lives, and hanging out with her husband and cat.",
-    "Lauren’s research interests include conservation management, population ecology, and avian ecology in response to our changing land use and climate. She is joining the Living Landscapes Lab to work on a project that will use data collected in and near three USFWS National Wildlife Refuges to create a mapping tool to quantify grassland bird and habitat core responses to grassland management. She has just finished her undergraduate work at Hendrix College, where she worked on a variety of projects including surveying urban wildlife in Central Arkansas, banding passerines at a Monitoring Avian Productivity and Survivorship station, and using Long Term Ecological Research Site data to evaluate insect population trends across North America. An Arkansas native, Lauren loves to backpack, cook, read, write, and spend time with her family in the southeastern part of the state."
+    "Lauren’s research interests include conservation management, population ecology, and avian ecology in response to our changing land use and climate. She is joining the Living Landscapes Lab to work on a project that will use data collected in and near three USFWS National Wildlife Refuges to create a mapping tool to quantify grassland bird and habitat core responses to grassland management. She has just finished her undergraduate work at Hendrix College, where she worked on a variety of projects including surveying urban wildlife in Central Arkansas, banding passerines at a Monitoring Avian Productivity and Survivorship station, and using Long Term Ecological Research Site data to evaluate insect population trends across North America. An Arkansas native, Lauren loves to backpack, cook, read, write, and spend time with her family in the southeastern part of the state.",
+    "Ken’s research is focused on ground and shrub nesting birds in Southern Arkansas, and how they are impacted by the presence of feral hogs. Using camera traps, point count surveys, and vegetation surveys, Ken will measure the diversity and occupancy of breeding birds in bottomland hardwood floodplains and upland pine forests and how this is related to the density of feral hogs. This study will help us better understand how to manage a highly invasive species to protect vulnerable bird populations. Ken has previously worked for federal and state wildlife agencies studying secretive wetland birds, ground-nesting warblers, and pygmy owls, among other avian species. Ken is from New Jersey and in his free time, he enjoys reading, hiking, martial arts, and spending time with his cat."
   ),
   Pics = rep("", length(profile_pics))
 )
@@ -63,9 +65,9 @@ kbl(people_tbl) %>%
               width = "10em") %>%
   column_spec(2, bold = FALSE, border_right = FALSE, width = "15em") %>%
   column_spec(3, bold = FALSE, border_right = FALSE, 
-              width = "10em") %>%
+              width = "5em") %>%
   column_spec(4, width = "20em") %>%
-  column_spec(5, width = "25em", image = profile_pics)
+  column_spec(5, width = "30em", image = profile_pics)
 
 
 ```
