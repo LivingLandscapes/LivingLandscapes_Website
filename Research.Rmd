@@ -26,6 +26,23 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 <div class="row">
 <div class="col-sm-8">
 
+#### *Risk assessment for Giant Salvinia in Arkansas waters*
+
+Giant salvinia (*Salvinia molesta*) is the second worst aquatic weed in the world, and in North America, it causes millions of dollars in damages per year to agriculture, fishing industries, recreation, ecosystem health, and human health. Giant salvinia is spreading rapidly throughout the Southeastern United States, including in Arkansas, and climate change is likely to exacerbate the risk and rate of its spread. A preventative management approach that focuses on early detection and rapid eradication responses will be the most successful and cost effective. Thus, there is a critical need to develop a risk assessment tool that both facilitates early detection of giant salvinia and assesses the feasibility of rapid eradication. Here, our goal is to develop and implement a risk assessment tool that 1) facilitates early detection of giant salvinia by quantifying the likelihood of giant salvinia invasion in Arkansas under multiple potential future climate scenarios and 2) determines the feasibility of successfully eradicating giant salvinia in water bodies if giant salvinia is introduced. This risk assessment tool will help Arkansas Game & Fish Commission develop and improve preventative management strategies such as prioritizing monitoring efforts, developing rapid response plans tailored to specific water bodies, and targeted public outreach.
+
+</div>
+<div class="col-sm-4">
+```{r GiantSalvinia, fig.cap = "'Giant Salvinia 3 - Nonnative' by Florida Fish & Wildlife is licensed with CC BY-NC 2.0.", out.width='100%', echo=F}
+knitr::include_graphics("images/research/GiantSalvinia_MyFWC.jpg")
+```
+</div>
+</div>
+
+----
+
+<div class="row">
+<div class="col-sm-8">
+
 #### *A rapid mapping tool for quantifying grassland management outcomes*
 
 In grasslands, the North American biome with the greatest loss of biodiversity, documentation of successful restoration and management is imperative for building large-scale restoration programs. However, quantifying outcomes from grassland management efforts is made difficult by the lack of tools to rapidly map and track core grassland habitats and grassland biodiversity responses to management. In this project, we will address this need by developing a rapid mapping tool to quantify grassland management outcomes on public and private lands. To accomplish this, we will complete two objectives: 1) develop a tool to identify and map grassland habitat cores, and 2) use this tool to quantify grassland habitat core and grassland bird community responses to management in and surrounding three US Fish & Wildlife Service Arkansas refuges, focusing on Southeastern grassland species of conservation concern. Tools and products from this project will facilitate grassland management strategies in the Arkansas USFWS refuges, provide grassland bird community and population trends, and will help determine the applicability of this approach for public and private lands across the Southeast region. Other collaborators include Arkansas Game & Fish Commission, USDA Natural Resources Conservation Service, and Quail Forever.

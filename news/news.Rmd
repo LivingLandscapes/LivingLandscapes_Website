@@ -19,6 +19,13 @@ body, td {
 
 ---
 
+October 2022
+
+- New technologies allow us to rapidly learn from rangeland management actions like prescribed fire, grazing, and tree removal at scales from 30m2 pixels to biomes! Check out our brand new [Journal of Environmental Management](https://www.sciencedirect.com/science/article/pii/S0301479722019326?dgcid=author) manuscript to learn more.
+- We're kicking off a new research project on risk of [giant salvinia](https://www.invasivespeciesinfo.gov/aquatic/plants/giant-salvinia) invasion. See our [research tab](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html) to learn more!
+
+---
+
 August 2022
 
 - [Ken Wilson](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) joined the Living Landscapes Lab this fall! Ken will be quantifying feral hog impacts on vegetation and ground-nesting birds in southeastern Arkansas USFWS refuges. Welcome, Ken!

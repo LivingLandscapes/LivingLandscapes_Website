@@ -13,7 +13,7 @@
 
 <title>Fun</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -73,6 +73,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="front.css" type="text/css" />
 
 
@@ -97,6 +98,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -249,7 +253,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -300,13 +304,18 @@ $(document).ready(function () {
 </div>
 
 
-<p>At the Living Landscapes Lab, we encourage cross-disciplinary work, creativity, and science communication. We also acknowledge that there are many ways of knowing. Here are some projects and hobbies we work on:</p>
+<p>At the Living Landscapes Lab, we encourage cross-disciplinary work,
+creativity, and science communication. We also acknowledge that there
+are many ways of knowing. Here are some projects and hobbies we work
+on:</p>
 <div id="creative-non-fiction" class="section level3">
 <h3>Creative Non-fiction</h3>
 <hr />
 <div class="row">
 <div id="capture-mark-recapture" class="section level4 col-sm-8">
-<h4><a href="https://www.terrain.org/2021/nonfiction/capture-mark-recapture/"><em>Capture Mark Recapture</em></a></h4>
+<h4><a
+href="https://www.terrain.org/2021/nonfiction/capture-mark-recapture/"><em>Capture
+Mark Recapture</em></a></h4>
 <p>An essay by Caleb Roberts. Published at Terrain.org.</p>
 <p>Photo by Caleb Roberts.</p>
 </div>
@@ -317,7 +326,9 @@ $(document).ready(function () {
 <hr />
 <div class="row">
 <div id="i-want-to-know-why-i-kill" class="section level4 col-sm-8">
-<h4><a href="https://www.thefourthriver.com/o7-content/2020/2/21/i-want-to-know-why-i-kill"><em>I Want to Know Why I Kill</em></a></h4>
+<h4><a
+href="https://www.thefourthriver.com/o7-content/2020/2/21/i-want-to-know-why-i-kill"><em>I
+Want to Know Why I Kill</em></a></h4>
 <p>An essay by Caleb Roberts. Published at The Fourth River.</p>
 <p>Photo by Axel Rouvin (CC BY 2.0).</p>
 </div>
@@ -327,8 +338,11 @@ $(document).ready(function () {
 </div>
 <hr />
 <div class="row">
-<div id="to-hold-a-beautiful-burning-snake" class="section level4 col-sm-8">
-<h4><a href="https://www.terrain.org/2018/nonfiction/hold-beautiful-burning-snake/"><em>To Hold a Beautiful, Burning Snake</em></a></h4>
+<div id="to-hold-a-beautiful-burning-snake"
+class="section level4 col-sm-8">
+<h4><a
+href="https://www.terrain.org/2018/nonfiction/hold-beautiful-burning-snake/"><em>To
+Hold a Beautiful, Burning Snake</em></a></h4>
 <p>An essay by Caleb Roberts. Published at Terrain.org.</p>
 <p>Photo by Christine Chitwood.</p>
 </div>

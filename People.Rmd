@@ -1,10 +1,10 @@
 ---
 title: "People"
 output:
-  pdf_document: default
   html_document:
     includes:
       in_header: g_analytics.html
+  # pdf_document: default
 ---
 
 Lab members listed alphabetically by last name. Last updated: June 2, 2022.
