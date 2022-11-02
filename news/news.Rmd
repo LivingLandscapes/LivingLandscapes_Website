@@ -19,6 +19,13 @@ body, td {
 
 ---
 
+November 2022
+
+- How much does tree invasion of grasslands cost western US economies? Billions. Check out our new [Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14288) article for the details.
+- Our own [Percy Marshall](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) has published their first peer-reviewed manuscript in [Crop Science](https://www.sciencedirect.com/science/article/pii/S0261219422002125)! Spoiler: hummingbirds can help control orchard pest insects!
+
+---
+
 October 2022
 
 - New technologies allow us to rapidly learn from rangeland management actions like prescribed fire, grazing, and tree removal at scales from 30m2 pixels to biomes! Check out our brand new [Journal of Environmental Management](https://www.sciencedirect.com/science/article/pii/S0301479722019326?dgcid=author) manuscript to learn more.
