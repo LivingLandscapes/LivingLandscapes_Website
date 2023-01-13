@@ -19,6 +19,13 @@ body, td {
 
 ---
 
+January 2023
+
+- We're hiring a Ph.D. student to work on aquatic invasive species issues in Arkansas and beyond! To apply, see the job ad in the [Join The Lab tab](https://livinglandscapes.github.io/LivingLandscapes_Website/Opportunities.html). Looking forward to seeing your application!
+- Speaking of invasive species--stay tuned for *another* Ph.D. student position opening soon! Some sneak peaks: there's gonna be study sites in Florida/Arkansas, visits to Montana, learning about fire, and creating a national-scale early detection workflow for invasive terrestrial plants. Can't wait!!
+
+---
+
 December 2022
 
 - "America’s Billion-Dollar Tree Problem Is Spreading". Now that's a catchy headline. Check out the [Wired magazine](https://www.wired.com/story/billion-dollar-encroaching-tree-problem/) that covers our [Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14288) and [Journal of Environmental Management](https://www.sciencedirect.com/science/article/pii/S0301479722019326?dgcid=author) articles! 

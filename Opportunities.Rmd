@@ -12,7 +12,7 @@ output:
     css: front.css
 ---
 
-If you're interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check the job announcements below or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students and post-docs to join the lab!
+If you're interested in landscapes, global change, invasive species, ecological resilience, wildlife, rangelands, plants, complex adaptive systems, or agroecosystems, check the job announcements below or send me an email with your CV and research interests (cr065@uark.edu). I'm actively looking for students to join the lab!
 
 In our lab, we seek to create, keep, and spread a climate of positivity and inclusiveness. To this end, the Living Landscapes Lab encourages and enforces:
 
