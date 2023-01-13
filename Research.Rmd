@@ -130,17 +130,3 @@ knitr::include_graphics("images/research/EasternSpottedSkunk_FWCResearch.jpg")
 
 <div class="row">
 <div class="col-sm-8">
-
-#### *Conservation Outcomes in Great Plains Rangelands*
-
-For the past several decades, scientific research has quantified catastrophic outcomes to rangeland resources due to woody plant encroachment, including collapses in livestock production potential and rancher profitability, increasing risks of wildfire danger and water security, displacement of wildlife habitat, and losses to important social and community programs (e.g., revenue generated for public school education). However, scientific documentation of positive conservation management and strategy outcomes is limited. This leads to slower widespread adoption of 'winning' strategies. In this project, we leverage major advancements in monitoring technology (e.g., the Rangeland Analysis Platform) alongside various wildlife datasets to provide more rapid outcomes-generation for partners across the Great Plains. Quantifying spatially-explicit changes in rangeland productivity, cover, and state transitions is central to this approach and have served to better understand complex responses of more specialized outcomes-based assessments. This project is a collaboration between the Arkansas Cooperative Fish & Wildlife Research Unit, University of Montana, University of Nebraska-Lincoln, and Natural Resource Conservation Service (NRCS). Primary project deliverables are (1) a synthesis of existing NRCS technical guidance related to juniper encroachment in the Great Plains, (2) documentation improved management of productivity, cover, state transitions, and grassland wildlife diversity and abundance in the Great Plains. Timely documentation the benefits of new conservation practices will equip agencies and private lands managers to tackle the woody encroachment problem in the Great Plains. 
-
-
-</div>
-<div class="col-sm-4">
-```{r ConservationRangelands, fig.cap = "'Prescribed fire in Great Plains' by Caleb Roberts", out.width='100%', echo=F}
-knitr::include_graphics("images/research/ConservationRangelands_CalebRoberts.JPG")
-```
-</div>
-</div>
-
