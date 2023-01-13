@@ -22,20 +22,47 @@ In our lab, we seek to create, keep, and spread a climate of positivity and incl
 - The importance of every voice 
 - The value of life outside of the lab
 
-### Job Announcements
+# Job Announcements
 
-There are no positions available at this time.
-<!-- ##### Master's Assistantship - invasive species ecology and management -->
+<!-- There are no positions available at this time. -->
 
-<!-- Interested in invasive species? Thinking of pursuing a research or state wildlife agency job? I’m hiring a Master’s student focusing on invasive species ecology and management to join my lab at the [Arkansas Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arkansas). The student would start August 2021. For more information and how to apply, check out this [link](https://wfscjobs.tamu.edu/jobs/masters-assistantship-invasive-waterfowl-ecology-and-management-arkansas/). Let me know via email if you have questions (cr065@uark.edu). -->
+## Ph.D. Assistantship – aquatic nuisance/invasive species
 
-<!-- #### Undergraduate Research -->
+### Description
 
-<!-- Recent research projects completed in the lab. -->
+I am looking for a doctoral student with a collaborative spirit, a creative mind, and strong interest in applied ecology and natural resources management. The student will be part of the University of Arkansas Department of Biological Sciences, the Arkansas Cooperative Fish & Wildlife Research Unit, and the Living Landscapes Lab. The student will lead a 4-year project on various aspects of aquatic nuisance/invasive species ecology. Key research topics will include: 1) estimate nationwide risk of invasion for multiple aquatic invasive species (e.g. Zebra and Quagga Mussels, Northern Snakehead, Giant Salvinia, etc.) which have been or could be introduced into Arkansas, 2) compare aquatic invasive species policies/regulations across states, 3) understand how climate change will affect future aquatic species’ invasions, and 4) use anthropogenic data (e.g., angling, waterfowl hunting, aquatic recreation data) to estimate probability of aquatic invasive species introductions in Arkansas and surrounding states. Depending on the student’s and project collaborators’ interests, portions of the project could entail field work.
 
-<!-- ```{r, echo=F, warning=FALSE, message=FALSE} -->
-<!-- library(data.table) -->
-<!-- undergrad_df<-fread("undergrad_research.csv") -->
-<!-- knitr::kable(undergrad_df) -->
+The student and I will co-produce this research and create products (e.g., scientific articles, white papers, extension articles, etc.) with the Arkansas Game & Fish Commission and U.S. Fish & Wildlife Service. Research products have the opportunity to directly inform Arkansas aquatic nuisance/invasive species management and public communications, with the overall goal of assisting natural resource agencies in sustaining ecosystem services such as biodiversity, fishing, waterfowl hunting, and boating.
 
-<!-- ``` -->
+The student’s stipend will be paid via a combination of teaching and research assistantships. The teaching assistantship will cover fall semesters and will require teaching approximately 3 labs per week. The research assistantship will cover the student’s salary during spring and summer. Tuition will be waived. In addition to TA/RA stipends, the University of Arkansas also offers fellowships that can substantially increase student salaries (https://graduate-and-international.uark.edu/graduate/costs-and-funding/fellowships-scholarships/doctoral-fellowships.php). 
+
+### Qualifications
+
+Required qualifications: 
+
+- Strong organizational, leadership, and communication skills to co-produce and conduct a research project with numerous collaborators (e.g., natural resource agencies, university faculty, private land owners, etc.). 
+
+- Experience using GIS software (e.g., QGIS, ESRI, R geospatial packages).
+
+- Proficiency in least one statistical programming language (e.g., R, Julia, Python).
+
+- A Master’s degree from a natural resources, biology, ecology, wildlife, fisheries, agronomy, or closely-related program. 
+
+- Commitment to publishing peer-reviewed scientific articles and present research at conferences.
+
+- Fortitude to work in challenging field conditions (e.g., heat, humidity, cold, rain, etc.).
+
+- Suitable grades per University of Arkansas Graduate School requirements (https://graduate-and-international.uark.edu/graduate/future-students/applying/degree-seeking.php).
+
+- A valid US driver’s license or ability/willingness to obtain one prior to starting this position.
+
+- Commitment to principles of diversity, equity, and inclusion.
+
+### To apply, please email me your:
+
+- CV (which should include education, previous work/research experience, contact info for 3 references, and M.S. transcripts). 
+
+- A cover letter detailing 1) interests and experience and 2) how these interests and experiences will translate to being a successful graduate student, project leader, and collaborator with our cooperating agencies.
+
+- Please mark the subject of your application email as “Ph.D. Student Application” Email to cr065@uark.edu.
+
