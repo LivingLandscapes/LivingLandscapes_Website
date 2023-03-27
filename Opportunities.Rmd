@@ -26,7 +26,73 @@ In our lab, we seek to create, keep, and spread a climate of positivity and incl
 
 <!-- There are no positions available at this time. -->
 
+## Ph.D. Assistantship – Early detection for invasive plants
+
+### Basic info
+
+- Location: University of Arkansas, Department of Biological Sciences, Fayetteville, AR
+
+- Salary: \$18,800 plus potential additive fellowships up to $22,000/year
+
+- Start date: Fall 2023 or Spring 2024
+
+- Last date to apply: May 1, 2023
+
+- NOTE: Applications will be reviewed as they are received.
+
+### Description
+
+I am looking for a doctoral student with a collaborative spirit, a creative mind, and strong interest in applied ecology and natural resources management. The student will be part of the University of Arkansas Department of Biological Sciences, the Arkansas Cooperative Fish & Wildlife Research Unit, and the Living Landscapes Lab. The student will lead a 4-year project on improving early detection models for invasive plants using Bayesian modeling, mechanistic dispersal modeling, and geospatial analyses. The focal species will be cogongrass (*Imperata cylindrica*), the ‘seventh worst weed in the world.’
+
+The student will work with a diverse group of researchers from the USDA Agricultural Research Service, the University of Florida, the U.S. Forest Service, and Michigan State University. The student will also collaborate closely with another Ph.D. student at the University of Florida, who will focus on ecosystem service impacts (fire risk modeling, biodiversity effects) of cogongrass. 
+
+The student’s stipend will be paid via a research assistantship. The research assistantship will cover the student’s salary year-round. Tuition will be waived. In addition to the salary, the University of Arkansas also offers [fellowships](https://graduate-and-international.uark.edu/graduate/costs-and-funding/fellowships-scholarships/doctoral-fellowships.php) that can substantially increase student salary. 
+
+### Qualifications
+
+- Strong organizational, leadership, and communication skills to co-produce and conduct a research project with collaborators (e.g., natural resource agencies, university faculty, etc.). 
+
+- Experience using GIS software (e.g., QGIS, ESRI, R geospatial packages).
+
+- Proficiency in at least one statistical programming language (e.g., R, Julia, Python).
+
+- Background in statistics, preferably Bayesian modeling and spatial analyses.
+
+- A Master’s degree from a natural resources, biology, ecology, wildlife, fisheries, agronomy, or closely-related program. 
+
+- Commitment to publishing peer-reviewed scientific articles and present research at conferences.
+
+- Fortitude to work in challenging field conditions (e.g., heat, humidity, cold, rain, etc.).
+
+- Suitable grades per [University of Arkansas Graduate School requirements](https://graduate-and-international.uark.edu/graduate/future-students/applying/degree-seeking.php).
+
+- A valid US driver’s license or ability/willingness to obtain one prior to starting this position.
+
+- Commitment to principles of diversity, equity, and inclusion.
+
+### To apply, please email me your:
+
+- CV (which should include education, previous work/research experience, contact info for 3 references, and M.S. transcripts). 
+
+- A cover letter detailing 1) interests and experience and 2) how these interests and experiences will translate to being a successful graduate student, project leader, and collaborator with our cooperating agencies.
+
+- Please mark the subject of your application email as “Ph.D. Student Application” Email to cr065@uark.edu.
+
+---
+
 ## Ph.D. Assistantship – aquatic nuisance/invasive species
+
+### Basic info
+
+- Location: University of Arkansas, Department of Biological Sciences, Fayetteville, AR
+
+- Salary: \$18,800 plus potential additive fellowships up to $22,000/year
+
+- Start date: Fall 2023
+
+- Last date to apply: April 1, 2023
+
+- NOTE: Applications will be reviewed as they are received.
 
 ### Description
 
@@ -34,7 +100,7 @@ I am looking for a doctoral student with a collaborative spirit, a creative mind
 
 The student and I will co-produce this research and create products (e.g., scientific articles, white papers, extension articles, etc.) with the Arkansas Game & Fish Commission and U.S. Fish & Wildlife Service. Research products have the opportunity to directly inform Arkansas aquatic nuisance/invasive species management and public communications, with the overall goal of assisting natural resource agencies in sustaining ecosystem services such as biodiversity, fishing, waterfowl hunting, and boating.
 
-The student’s stipend will be paid via a combination of teaching and research assistantships. The teaching assistantship will cover fall semesters and will require teaching approximately 3 labs per week. The research assistantship will cover the student’s salary during spring and summer. Tuition will be waived. In addition to TA/RA stipends, the University of Arkansas also offers fellowships that can substantially increase student salaries (https://graduate-and-international.uark.edu/graduate/costs-and-funding/fellowships-scholarships/doctoral-fellowships.php). 
+The student’s stipend will be paid via a combination of teaching and research assistantships. The teaching assistantship will cover fall semesters and will require teaching approximately 3 labs per week. The research assistantship will cover the student’s salary during spring and summer. Tuition will be waived. In addition to TA/RA stipends, the University of Arkansas also offers [fellowships](https://graduate-and-international.uark.edu/graduate/costs-and-funding/fellowships-scholarships/doctoral-fellowships.php) that can substantially increase student salaries. 
 
 ### Qualifications
 
@@ -52,7 +118,7 @@ Required qualifications:
 
 - Fortitude to work in challenging field conditions (e.g., heat, humidity, cold, rain, etc.).
 
-- Suitable grades per University of Arkansas Graduate School requirements (https://graduate-and-international.uark.edu/graduate/future-students/applying/degree-seeking.php).
+- Suitable grades per [University of Arkansas Graduate School requirements](https://graduate-and-international.uark.edu/graduate/future-students/applying/degree-seeking.php).
 
 - A valid US driver’s license or ability/willingness to obtain one prior to starting this position.
 
