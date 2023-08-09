@@ -19,14 +19,14 @@ shelf(data.table, stringr, magrittr, dplyr, kableExtra, knitr)
 ```{r, include = TRUE, echo = FALSE}
 
 # get file names/locations for profile pictures
-profile_pics <- sort(paste0("C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/",
-                            list.files("C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/")),
+profile_pics <- sort(paste0("C:/Users/cr065/Documents/GitHub/LivingLandscapes_Website/images/ProfilePics/",
+                            list.files("C:/Users/cr065/Documents/GitHub/LivingLandscapes_Website/images/ProfilePics")),
                      decreasing = TRUE)
 
 # Sort profile pics
 profile_pics <- data.table(profilePicFiles = profile_pics,
                            sortPics =   sapply(str_extract_all(str_remove(str_remove(profile_pics, 
-                                            "C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/ProfilePic_"), 
+                                            "C:/Users/cr065/Documents/GitHub/LivingLandscapes_Website/images/ProfilePics/ProfilePic_"), 
                                          "\\.([A-Z]+)|\\.([a-z]+)"), 
                               "[A-Z][a-z][a-z]"), function(X) X[2]))[order(sortPics)]
 profile_pics <- unlist(profile_pics$profilePicFiles)
