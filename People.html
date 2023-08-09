@@ -13,7 +13,7 @@
 
 <title>People</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -34,8 +34,8 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79429674-1"></script>
 <script>
@@ -154,11 +154,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -187,8 +191,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -196,16 +200,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -300,8 +297,8 @@ $(document).ready(function () {
 </div>
 
 
-<p>Lab members listed alphabetically by last name. Last updated: June 2,
-2022.</p>
+<p>Lab members listed alphabetically by last name. Last updated: August
+8, 2023.</p>
 <table class=" lightable-paper" style="font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -346,7 +343,42 @@ southeastern part of the state.
 <td style="text-align:left;width: 30em; ">
 <html>
 <body>
-<img src="images/ProfilePics/ProfilePic_LaurenBerry.jpg">
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
+</body>
+</html>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 10em; font-weight: bold;">
+Lindsey LaBrie
+</td>
+<td style="text-align:left;width: 15em; ">
+PhD Student
+</td>
+<td style="text-align:left;width: 5em; ">
+<a href="mailto:lindsey.labrie@coyotes.usd.edu"
+class="email">lindsey.labrie@coyotes.usd.edu</a>
+</td>
+<td style="text-align:left;width: 20em; ">
+Lindsey is interested in invasive species ecology of riverine
+ecosystems, especially in the context of climate change. In the Living
+Landscapes Lab, she will be researching differences in invasive species
+management policies across the country, determining invasion potential
+for various aquatic nuisance species throughout the state of Arkansas,
+and estimating future invasion risks using climate change models and
+horizon mapping techniques. She completed her M.S. in Biology at the
+University of South Dakota in May 2023. She received a B.S. in Fisheries
+&amp; Wildlife and a B.A. in German Language &amp; Literature from the
+University of Nebraska-Lincoln in May 2020. Lindsey is originally from
+Hastings, Nebraska. When she’s not on the river or thinking about fish,
+you’ll find her drinking coffee, gardening, painting, cooking,
+rollerblading, camping, indoor rock climbing, or snuggling with her cat
+Jinx.
+</td>
+<td style="text-align:left;width: 30em; ">
+<html>
+<body>
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
 </body>
 </html>
 </td>
@@ -356,7 +388,7 @@ southeastern part of the state.
 Percy Marshall
 </td>
 <td style="text-align:left;width: 15em; ">
-Master’s Student
+Data Analyst
 </td>
 <td style="text-align:left;width: 5em; ">
 <a href="mailto:pmm005@uark.edu" class="email">pmm005@uark.edu</a>
@@ -374,7 +406,7 @@ tactics that may be needed in the future.
 <td style="text-align:left;width: 30em; ">
 <html>
 <body>
-<img src="images/ProfilePics/ProfilePic_PercyMarshall.jpg">
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
 </body>
 </html>
 </td>
@@ -402,7 +434,7 @@ board games, hiking, and hanging out with his wife, daughter, and cat.
 <td style="text-align:left;width: 30em; ">
 <html>
 <body>
-<img src="images/ProfilePics/ProfilePic_CalebRoberts.JPG">
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
 </body>
 </html>
 </td>
@@ -435,7 +467,7 @@ hanging out with her husband and cat.
 <td style="text-align:left;width: 30em; ">
 <html>
 <body>
-<img src="images/ProfilePics/ProfilePic_JessSchmit.jpg">
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
 </body>
 </html>
 </td>
@@ -464,7 +496,7 @@ boardgames.
 <td style="text-align:left;width: 30em; ">
 <html>
 <body>
-<img src="images/ProfilePics/ProfilePic_MichaelShaw.jpeg">
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
 </body>
 </html>
 </td>
@@ -496,7 +528,7 @@ with his cat.
 <td style="text-align:left;width: 30em; ">
 <html>
 <body>
-<img src="images/ProfilePics/ProfilePic_KenWilson.jpg">
+<img src="C:/Users/Caleb/Box/GitHub/RobertsLabWebsite2/images/ProfilePics/">
 </body>
 </html>
 </td>

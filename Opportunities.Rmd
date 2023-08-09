@@ -26,6 +26,46 @@ In our lab, we seek to create, keep, and spread a climate of positivity and incl
 
 <!-- There are no positions available at this time. -->
 
+## M.S. Assistantship – Birds, solar arrays, and native plantings
+
+### Basic info
+
+- Start date: Spring or Summer 2024
+
+- Last date to apply: 10/1/2023
+
+- **NOTE: applications will be reviewed as they are received!**
+
+- Salary: $18,800/year
+
+### Description
+
+I am looking for a collaborative and creative master’s student with interests in natural resources management, renewable energy, and birds. The student will be part of the University of Arkansas Department of Biological Sciences, the Arkansas Cooperative Fish & Wildlife Research Unit, and the Living Landscapes Lab. The student will lead a 2-year project on how birds use solar arrays with an understory of native grasses and forbs compared to sites with turf grass as well as reference sites. This project is funded by the U.S. Department of Energy and includes a large team of graduate students and scientists at the University of Arkansas. This position will entail frequent travel for field work across Arkansas and Kansas, and the student will have the opportunity to assist fellow graduate students in collecting reptile, amphibian, mammal, insect, and plant diversity field data.
+
+The student’s stipend will be paid via a research assistantship (i.e., no teaching required). Tuition will be waived. The start date is flexible (January – May 2024). Field work will begin May 2024.
+
+### Qualifications
+
+- Strong organizational, leadership, and communication skills to co-produce and conduct a research project with numerous collaborators (e.g., natural resource agencies, university faculty, private land owners, etc.). 
+
+- Commitment to publishing peer-reviewed scientific articles and present research at conferences.
+
+- Fortitude to work in challenging field conditions (e.g., heat, humidity, cold, rain, etc.).
+
+- Suitable grades per University of Arkansas Graduate School requirements (https://graduate-and-international.uark.edu/graduate/future-students/applying/degree-seeking.php).
+
+- A valid US driver’s license or ability/willingness to obtain one prior to starting this position.
+
+- Commitment to principles of diversity, equity, and inclusion.
+
+### To apply
+
+- CV (which should include education, previous work/research experience, contact info for 3 references). 
+
+- A cover letter detailing 1) interests and experience and 2) how these interests and experiences will translate to being a successful graduate student, project leader, and collaborator with our cooperating agencies.
+
+- Please mark the subject of your application email as “M.S. Student Application” Email to cr065@uark.edu.
+
 ## Ph.D. Assistantship – Invasion ecology: early detection + impacts
 
 ### Basic info
@@ -67,53 +107,6 @@ The student’s stipend will be paid via a research assistantship. The research 
 - A valid US driver’s license or ability/willingness to obtain one prior to starting this position.
 
 - Commitment to principles of diversity, equity, and inclusion.
-
-### To apply, please email me your:
-
-- CV (which should include education, previous work/research experience, contact info for 3 references, and M.S. transcripts). 
-
-- A cover letter detailing 1) interests and experience and 2) how these interests and experiences will translate to being a successful graduate student, project leader, and collaborator with our cooperating agencies.
-
-- Please mark the subject of your application email as “Ph.D. Student Application” Email to cr065@uark.edu.
-
----
-
-## Ph.D. Assistantship – wild turkey population ecology
-
-### Basic info
-
-- Location: University of Arkansas, Department of Biological Sciences, Fayetteville, AR
-
-- Salary: \$18,800 plus potential additive fellowships up to $22,000/year
-
-- Start date: Spring 2024
-
-- Last date to apply: August 21, 2023
-
-- NOTE: Applications will be reviewed as they are received.
-
-### Description
-
-I am looking for a doctoral student with a collaborative spirit, a creative mind, and strong interest in natural resources management and population modeling. The student will be part of the University of Arkansas Department of Biological Sciences, the Arkansas Cooperative Fish & Wildlife Research Unit, and the Living Landscapes Lab. The student will lead a 4-year project on wild turkey (Meleagris gallopavo) population ecology. Key study objectives include: 1) Identify and map important turkey habitat across Arkansas and beyond; 2) Estimate and map turkey population growth rates across Arkansas; 3) Identify areas with the greatest potential to positively impact turkey populations through habitat management efforts, restocking, etc.; 4) Provide technical assistance for development of public-facing data products, such as interactive maps of habitat suitability and population growth rates, etc. Depending on the student’s and project collaborators’ interests, portions of the project could entail field work.
-
-The student and I will co-produce this research and create products (e.g., scientific articles, white papers, extension articles, etc.) with the Arkansas Game & Fish Commission. Research products will directly inform Arkansas wild turkey management and public communications. Additionally, the student will have the opportunity to collaborate with cutting edge population modelers from the U.S. Geological Survey’s Western Science Center.
-
-The student’s stipend will be paid via a research assistantship (i.e., no teaching required). Tuition will be waived. In addition to RA stipends, the University of Arkansas also offers fellowships that can substantially increase student salaries (https://graduate-and-international.uark.edu/graduate/costs-and-funding/fellowships-scholarships/doctoral-fellowships.php). Finally, there are funds to send the student to multiple national conferences and regional conferences.
-
-### Qualifications
-
-* Required qualifications: 
-  + Strong organizational, leadership, and communication skills to co-produce and conduct a research project with numerous collaborators (e.g., natural resource agencies, university faculty, private land owners, etc.). 
-  + Experience using GIS software (e.g., QGIS, ESRI, R geospatial packages).
-  + Proficiency in least one statistical programming language (e.g., R, Julia, Python).
-  + A Master’s degree from a natural resources, biology, ecology, wildlife, fisheries, agronomy, or closely-related program. 
-  + Commitment to publishing peer-reviewed scientific articles and present research at conferences.
-  + Fortitude to work in challenging field conditions (e.g., heat, humidity, cold, rain, etc.).
-  + Suitable grades per University of Arkansas Graduate School requirements (https://graduate-and-international.uark.edu/graduate/future-students/applying/degree-seeking.php).
-  + A valid US driver’s license or ability/willingness to obtain one prior to starting this position.
-  + Commitment to principles of diversity, equity, and inclusion.
-* Preferred qualifications:
-  + Experience with Bayesian statistics and modeling
 
 ### To apply, please email me your:
 
