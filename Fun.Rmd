@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-At the Living Landscapes Lab, we encourage cross-disciplinary work, creativity, and science communication. We also acknowledge that there are many ways of knowing. Here are some projects and hobbies we work on:
+At the Living Landscapes Lab, we encourage cross-disciplinary work, creativity, and science communication. We also acknowledge that there are many ways of knowing. Here are some projects, hobbies, and random artwork we do:
 
 ### Creative Non-fiction
 
@@ -83,14 +83,33 @@ knitr::include_graphics("images/fun/RS.jpg")
 </div>
 
 
-<!-- ---- -->
+----
 
-<!-- ## Painting -->
+### Artwork
 
-<!-- ---- -->
+<div class="row">
+<div class="col-sm-8">
 
-<!-- <div class="row"> -->
-<!-- <div class="col-sm-8"> -->
+---
+
+#### King Rail-zilla
+
+Artist unknown... but probably Jess Schmit.
+
+Photo by Caleb Roberts.
+
+</div>
+<div class="col-sm-4">
+```{r KingRailZilla, out.width='100%', echo=F}
+knitr::include_graphics("images/fun/KingRailZilla.jpg")
+```
+</div>
+</div>
+
+----
+
+<div class="row">
+<div class="col-sm-8">
 
 <!-- ### [things](https://crumplab.github.io/things/) -->
 
