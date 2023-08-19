@@ -94,7 +94,7 @@ knitr::include_graphics("images/fun/RS.jpg")
 
 #### King Rail-zilla
 
-Artist unknown... but probably Jess Schmit.
+Artist unknown.
 
 Photo by Caleb Roberts.
 
