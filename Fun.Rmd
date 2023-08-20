@@ -101,7 +101,7 @@ Photo by Caleb Roberts.
 </div>
 <div class="col-sm-4">
 ```{r KingRailZilla, out.width='100%', echo=F}
-knitr::include_graphics("images/fun/KingRailZilla.jpg")
+knitr::include_graphics("images/fun/KingRailZilla.JPG")
 ```
 </div>
 </div>
