@@ -19,6 +19,13 @@ body, td {
 
 ---
 
+September 2023
+
+- Our first lab project manuscript was published in [Restoration Ecology!](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13998?casa_token=oaVpK3sps0EAAAAA%3APonfiF3LJv1APdTmslZilCYq9t0N5ULmadjIRjf-FEXne7-O8a-7h4Z-vojLfNyrzTgp9tE6s7zQSOaT).
+- Also, Caleb is teaching Ecological Modeling this semester! Check out the [course website](https://livinglandscapes.github.io/Course_EcologicalModeling/). We're building it as the semester progresses, so keep an eye out for updates if you're interested in learning statistics.
+
+---
+
 August 2023
 
 - [**1 MS position open in the lab!](https://livinglandscapes.github.io/LivingLandscapes_Website/Opportunities.html): Come investigate how birds are responding to native plantings under solar arrays! Fully funded, lots of field work, and opportunities to work with renewable energy, acoustic recording units, and a fantastic team of scientists!
