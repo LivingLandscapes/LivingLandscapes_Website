@@ -14,6 +14,8 @@ navbar:
       href: Opportunities.html
     - text: "Code of Conduct"
       href: CodeOfConduct.html
+    - text: "Lab Reading List"
+      href: ReadingList.html
     - text: "Fun"
       href: Fun.html
     - text: " "

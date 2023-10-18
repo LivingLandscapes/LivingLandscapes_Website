@@ -1,0 +1,57 @@
+---
+title: "Lab Reading List"
+output:
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    includes:
+       in_header: [g_analytics.html,header_pubs.html]
+    css: front.css
+bibliography: LabReadingList.bib
+csl: ecology.csl
+nocite: |
+  @angeler2019adaptive, @roberts2019shifting, @roberts2022tracking, @allen2022applications, @holling1973resilience, @garmestani2020panarchy, @allen2014panarchy, @gunderson2000ecological, @hiers2016precision, @naugle2020coproducing, @levin1992problem, @steffen2015planetary, @scheffer2003catastrophic, @allen2016quantifying, @gunderson2022applied, @turner2010disturbance, @seidl2022post, @spanbauer2014prolonged, @nash2014discontinuities, @turner1989effects, @johnstone2016changing, @hillebrand2020thresholds, @allen2015toward, @mitchell2009complexity, @hacking2006emergence, @feyerabend1978science
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+This list is a starting point and meant to give all lab students common knowledge base. These are **not** the only readings you should do. Reading papers and relevant books should be an ongoing priority during your graduate program. Be curious, read widely, and have fun!
+
+
+----
+
+
+### Foundational papers
+
+
+<div id="refs"></div>
+
+
+----
+
+
+### Non-scientific literature
+
+These are absolutely optional (and non-scientfic) readings. However, they have inspired my thinking and science, and I list them in case you may also enjoy them. Listed in no particular order:
+
+- Rogers, P. (2005). Firekeeper: selected poems. Rev. and expanded. Minneapolis, Minn., Milkweed Editions.
+- Williams, T. T. (2019). Erosion: essays of undoing. Sarah Crichton Books. ISBN: 9780374280062.
+- McPhee, J. (1990). Encounters with the archdruid. New York, Noonday Press.
+- McPhee, J. (1989). The control of nature. New York, Farrar, Straus, Giroux.
+- Atwood, M. (2013). Oryx And Crake. Virago Press.
+- Dillard, A. (1992). The Living. Harper Collins.
+- Berry, W. (2010). What are people for?: essays. Berkeley, CA, Counterpoint.
+- Dillard, A. (1984). Holy the firm. Harper and Row, NY.
+
+<!-- </div> -->
+<!-- <div class="col-sm-4"> -->
+<!-- ```{r rs, out.width='100%', echo=F} -->
+<!-- knitr::include_graphics("images/fun/RS.jpg") -->
+<!-- ``` -->
+<!-- </div> -->
+<!-- </div> -->
