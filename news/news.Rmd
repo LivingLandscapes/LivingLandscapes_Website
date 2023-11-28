@@ -17,11 +17,16 @@ body, td {
 
 </style>
 
+<!-- --- -->
+
+<!-- December 2023 -->
+
+<!-- - Congratulations to **Mike Shaw** for passing his thesis defense!!! Mike will be heading to Michigan State to pursue a PhD. We'll miss you, Mike! -->
+
 ---
 
-December 2023
+November 2023
 
-- Congratulations to **Mike Shaw** for passing his thesis defense!!! Mike will be heading to Michigan State to pursue a PhD. We'll miss you, Mike!
 - So excited for our two new additions to the lab: **Vinita Karki** and **Michael Ferrara**! Vinita will be creating a statewide decision support tool to inform wild turkey conservation, and Michael will be joining the WildSNaP project to investigate the responses of bird communities to native plantings under solar arrays. Check out the [People](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) tab to read their bios and the [Research](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html) tab to read about their projects.
 
 ---
