@@ -17,11 +17,12 @@ body, td {
 
 </style>
 
-<!-- --- -->
+---
 
-<!-- December 2023 -->
+December 2023
 
-<!-- - Congratulations to **Mike Shaw** for passing his thesis defense!!! Mike will be heading to Michigan State to pursue a PhD. We'll miss you, Mike! -->
+- Congratulations to **Mike Shaw** for passing his thesis defense!!! Mike will be heading to Michigan State to pursue a PhD. We'll miss you, Mike!
+- Hello to **Paul Akpejeluh**, who will be joining the lab in spring 2024! Paul will be funded by our USDA AFRI grant, working on improving early detection methods for invasive plants. Check his info out on the [People](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) tab.
 
 ---
 
