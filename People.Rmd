@@ -7,7 +7,7 @@ output:
   # pdf_document: default
 ---
 
-Lab members listed alphabetically by last name. Last updated: December 11, 2023.
+Lab members listed alphabetically by last name. Last updated: March 11, 2024.
 
 ```{r, echo = FALSE, include = FALSE}
 # List of packages necessary to run this script:
@@ -37,7 +37,7 @@ profile_pics <- unlist(profile_pics$profilePicFiles)
 people_tbl <- data.frame(
   Members = c("Caleb Roberts", "Paul Akpejeluh", "Vinita Karki", "Michael Ferrara", "Jess Schmit", "Lauren Berry", "Ken Wilson", "Lindsey LaBrie"),
   Roles = c("PI", "PhD Student", "PhD Student", "Master's Student", "Master's Student", "Master's Student", "Master's Student", "PhD Student"),
-  Contact = c("cr065@uark.edu", "paulakpejeluh23@gmail.com", "vinicarkey8@gmail.com", "mcf017@uark.edu",  "jmschmit@uark.edu", "llberry@uark.edu", "kw101@uark.edu", "llabrie@uark.edu"),
+  Contact = c("cr065@uark.edu", "pa024@uark.edu", "vinicarkey8@gmail.com", "mcf017@uark.edu",  "jmschmit@uark.edu", "llberry@uark.edu", "kw101@uark.edu", "llabrie@uark.edu"),
   Bios = c(
     "Caleb is the leader of the Living Landscapes Lab. He works for the U.S. Geological Survey as the Unit Leader of the Arkansas Cooperative Fish & Wildlife Research Unit. Caleb's research interests include ecological resilience, grasslands, landscape ecology, fire, birds, invasive species, plants, community ecology, agroecosystems, complexity theory, and rangelands. Caleb is from western Kentucky, and he enjoys writing, running, reading, cooking, gardening, board games, hiking, and hanging out with his wife, daughter, and cat.",
     "Paul’s research interests include rangeland ecology, geospatial mapping, GIS, and remote sensing. He is joining the Living Landscapes Lab to pursue a PhD in Invasion Ecology focusing on developing a national-scale early detection and rapid response tool to predict spread of invasive plants using Cocongrass as focal species. He completed his MS in Applied Ecology at the University of Nebraska-Lincoln and his research focused on monitoring abandoned bomas (livestock enclosures) using multi-scale remote sensing data at multiple temporal resolutions to better understand vegetation dynamics with their surrounding landscapes. He is originally from Nigeria, where he holds a BS in Environmental Science. In his free time, he enjoys landscape and nature photography, watching sports and travelling.",
