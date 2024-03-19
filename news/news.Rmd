@@ -16,6 +16,28 @@ body, td {
 }
 
 </style>
+---
+
+March 2024
+
+- Lately, our team has won so many awards that we have to make a list! Here they all are in alphabetical order by surname:
+  + *Paul Akpejeluh*: University of Arkansas Doctoral Academy Fellowship
+  + *Lauren Berry*: 3rd place in Graduate Student Presentation Competition at the Society for Range Management Conference; Kimberly G. Smith Memorial Scholarship
+  + *Lindsey LaBrie*: University of Arkansas Doctoral Academy Fellowship; Outstanding Subunit Member of the Arkansas Chapter of the American Fisheries Society; Natural State Fisheries Scholarship
+- We've got a new pub on pronghorn antelope in [Global Ecology and Conservation](https://www.sciencedirect.com/science/article/pii/S2351989424000520) led by [Dr. Donovan](http://www.victoriamdonovan.org/). Oil and gas development + woody plant encroachment are correlated to declining recruitment.
+
+---
+
+December 2023
+
+- Congratulations to **Mike Shaw** for passing his thesis defense!!! Mike will be heading to Michigan State to pursue a PhD. We'll miss you, Mike!
+- Hello to **Paul Akpejeluh**, who will be joining the lab in spring 2024! Paul will be funded by our USDA AFRI grant, working on improving early detection methods for invasive plants. Check his info out on the [People](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) tab.
+
+---
+
+November 2023
+
+- So excited for our two new additions to the lab: **Vinita Karki** and **Michael Ferrara**! Vinita will be creating a statewide decision support tool to inform wild turkey conservation, and Michael will be joining the WildSNaP project to investigate the responses of bird communities to native plantings under solar arrays. Check out the [People](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) tab to read their bios and the [Research](https://livinglandscapes.github.io/LivingLandscapes_Website/Research.html) tab to read about their projects.
 
 ---
 
