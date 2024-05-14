@@ -16,6 +16,14 @@ body, td {
 }
 
 </style>
+
+---
+
+May 2024
+
+- Lauren Berry and Jess Schmit graduated with their M.S. degrees! Woohoo! They'll be sticking around for a bit in post-Master's technician positions, but we're so excited to see where they'll go next!
+- We're also excited to welcome **Lauren Luther** to the lab! Lauren is working on her undergraduate honor's thesis with Michael Ferrara on the WildSNaP solar project! Check her bio out on the [People tab](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html).
+
 ---
 
 March 2024

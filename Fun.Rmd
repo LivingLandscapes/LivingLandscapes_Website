@@ -87,16 +87,18 @@ knitr::include_graphics("images/fun/RS.jpg")
 
 ### Artwork
 
+----
+
 <div class="row">
 <div class="col-sm-8">
 
----
-
 #### King Rail-zilla
 
-Artist unknown.
+Probably by Jess Schmit.
 
 Photo by Caleb Roberts.
+
+---
 
 </div>
 <div class="col-sm-4">
@@ -107,6 +109,29 @@ knitr::include_graphics("images/fun/KingRailZilla.JPG")
 </div>
 
 ----
+
+### Lab Trips
+
+----
+
+<div class="row">
+<div class="col-sm-8">
+
+#### Kettle Falls Hike: 2024
+
+Paul Akpejeluh in front of Kettle Falls... which was dry that day.
+
+Photo by Paul Akpejeluh
+
+</div>
+<div class="col-sm-4">
+```{r KettleFallsPaul, out.width='100%', echo=F}
+knitr::include_graphics("images/fun/KettleFallsHike_PaulAkpejeluh_2024.jpg")
+```
+</div>
+</div>
+
+---
 
 <div class="row">
 <div class="col-sm-8">
