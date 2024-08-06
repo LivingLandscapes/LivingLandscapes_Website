@@ -28,6 +28,24 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 <div class="row">
 <div class="col-sm-8">
 
+#### Toward identifying candidate species for an aquatic nuisance species watchlist in Arkansas: Customizing and improving ecological risk screening summaries for aquatic invasive species
+
+Creating watchlists for potential high-risk invaders can serve as a strong proactive invasive species management tool, but the biggest challenge for creating watchlists is identifying which species out of thousands are “high risk” for becoming harmful invaders. Rapid horizon scans can narrow down non-native species lists from thousands of non-native species to hundreds, and then in-depth risk screening summaries, such as the U.S. Fish & Wildlife Service’s (USFWS) Ecological Risk Screening Summary (ERSS) protocols, can further winnow lists down to a handful of high-risk species. However, there remain key gaps in the USFWS ERSS protocols: the summaries are not tailored for finer-scale ecoregions, the climatic analyses do not account for future climate scenarios, and the literature review for understanding risks of establishment, spread, and impacts is not standardized. To support preventative invasive species management in Arkansas by identifying potential watchlist species, there is a critical need to have and implement a standardized protocol for in-depth ecological risk screening summaries for species that are high-risk for becoming invasive in Arkansas. To fill this need, we propose to customize and improve upon the USFWS ERSS protocols. Our specific objectives are: 1) Customize and make improvements on the USFWS ERSS protocols for Arkansas by (a) tailoring climate matching to Arkansas and (b) developing and implementing a standardized, semi-automatic systematic literature review for high-risk species; and 2) Implement the new Arkansas ecological risk screening summary protocols on the top 10 heighted risk freshwater fish species identified in the U.S. Geological Survey’s Vertebrates in Trade Horizon Scan. As a result of this project, Arkansas will have customized and improved ecological risk screening summary protocols for conducting in-depth risk screening of potential invasive species. We envision these ERSS protocols will fit into an overarching workflow for proactive invasive species management that starts with (i) horizon scanning (rapid risk screening), moves to (ii) ecological risk screening (in-depth risk screening for species flagged in horizon scanning), and then finishes with (iii) considering species categorized as high-risk for addition to an Arkansas aquatic nuisance species watchlist. This project will ensure Arkansas has a clear set of methods for identifying potential watchlist species. 
+
+</div>
+<div class="col-sm-4">
+```{r ANS, fig.cap = "Image credit: Lindsey LaBrie", out.width='100%', echo=F}
+knitr::include_graphics("images/research/InvasiveAquarium.png")
+```
+
+</div>
+</div>
+
+----
+
+<div class="row">
+<div class="col-sm-8">
+
 #### *A statewide decision support tool for turkey conservation in Arkansas: mapping habitat suitability, population growth rates, and where management will be most impactful*
 
 The apparent declines in wild turkey (*Meleagris gallopavo*) populations has led to growing concern in multiple states, and Arkansas is no exception. This has spurred the development of statewide decision support tools, such as habitat suitability models and population density maps, to assist in strategizing large-scale turkey conservation. However, these tools can run afoul of multiple complications: traditional habitat suitability models can oversimplify the diversity of turkey-habitat associations; density maps often provide little new information relative to habitat suitability maps; and neither of these tools account for the reality that conservation decisions are made in the face of complex socio-ecological landscapes, diverse and sometimes competing stakeholders, and limited funds. Therefore, there is a critical need to develop a decision support tool for Arkansas that 1) incorporates spatial non-stationarity into turkey habitat suitability analyses, 2) provides independent, spatially explicit information on turkey population growth rates, and 3) synthesizes turkey habitat suitability, turkey population growth rates, and relevant external socio-ecological information to identify areas where management actions will be most impactful and cost-efficient. Here, our overall goal is to develop and implement a decision support tool that informs wild turkey conservation and management strategies across Arkansas. Specifically, our objectives are: 1) Identify and map important turkey habitat across Arkansas using models that incorporate spatially non-stationary habitat relationships; 2) Estimate and map population growth rates of turkeys across Arkansas; 3) Using information from objectives 1 – 2, identify areas with the greatest potential to positively impact turkey populations through management; 4) Provide technical assistance for development of public-facing data products. The models, data products, and technical assistance we provide will put Arkansas Game & Fish Commission in an ideal position to prevent, halt, or potentially reverse turkey declines in Arkansas.
@@ -113,6 +131,14 @@ knitr::include_graphics("images/research/FeralHog_MyFWC.jpg")
 
 ----
 
+
+
+
+
+# Past Projects
+
+--- 
+
 <div class="row">
 <div class="col-sm-8">
 
@@ -147,8 +173,6 @@ knitr::include_graphics("images/research/EasternSpottedSkunk_FWCResearch.jpg")
 </div>
 </div>
 
-
-# Past Projects
 
 ----
 
