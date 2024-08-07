@@ -25,8 +25,8 @@ August 2024
   + *Jess Novobilsky*: Habitat Coordinator for Arkansas Natural Heritage Commission
   + *Lauren Berry*: Intern for the US Senate Committee on Agriculture, Nutrition, and Forestry
 - We've also gotten two new publications for the lab:
-  + Dr. Reilly Jackson led a publication looking at potential risk of interaction/disease transmission between two invasive waterfowl (Egyptian Geese and Mute Swan) and poultry in [Ecology and Evolution](). This is especially relevant given the HPAI outbreaks!
-  + We came up with an approach for balancing practical concerns with the ecologies of invasive species. Check out our new article in [Ecological Solutions and Evidence]() if you're interested in species distribution models and eradicating invasive species!
+  + Dr. Reilly Jackson led a publication looking at potential risk of interaction/disease transmission between two invasive waterfowl (Egyptian Geese and Mute Swan) and poultry in [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.11647). This is especially relevant given the HPAI outbreaks!
+  + We came up with an approach for balancing practical concerns with the ecologies of invasive species. Check out our new article in [Ecological Solutions and Evidence](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12362) if you're interested in species distribution models and eradicating invasive species!
 
 ---
 

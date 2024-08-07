@@ -18,9 +18,9 @@ navbar:
       href: ReadingList.html
     - text: "Fun"
       href: Fun.html
-    - text: " "
-      icon: fab fa-twitter
-      href: "https://twitter.com/calebproberts"
+    # - text: " "
+    #   icon: fab fa-twitter
+    #   href: "https://twitter.com/calebproberts"
     # - text: ""
     #   icon: fab fa-github
     #   href: "https://github.com/LivingLandscapes"
