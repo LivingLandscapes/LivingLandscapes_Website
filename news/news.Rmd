@@ -19,9 +19,20 @@ body, td {
 
 ---
 
+August 2024
+
+- Two of our lab alumni got some fantastic jobs!
+  + *Jess Novobilsky*: Habitat Coordinator for Arkansas Natural Heritage Commission
+  + *Lauren Berry*: Intern for the US Senate Committee on Agriculture, Nutrition, and Forestry
+- We've also gotten two new publications for the lab:
+  + Dr. Reilly Jackson led a publication looking at potential risk of interaction/disease transmission between two invasive waterfowl (Egyptian Geese and Mute Swan) and poultry in [Ecology and Evolution](). This is especially relevant given the HPAI outbreaks!
+  + We came up with an approach for balancing practical concerns with the ecologies of invasive species. Check out our new article in [Ecological Solutions and Evidence]() if you're interested in species distribution models and eradicating invasive species!
+
+---
+
 May 2024
 
-- Lauren Berry and Jess Schmit graduated with their M.S. degrees! Woohoo! They'll be sticking around for a bit in post-Master's technician positions, but we're so excited to see where they'll go next!
+- Lauren Berry and Jess Novobilsky graduated with their M.S. degrees! Woohoo! They'll be sticking around for a bit in post-Master's technician positions, but we're so excited to see where they'll go next!
 - We're also excited to welcome **Lauren Luther** to the lab! Lauren is working on her undergraduate honor's thesis with Michael Ferrara on the WildSNaP solar project! Check her bio out on the [People tab](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html).
 
 ---
