@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Living Landscapes Lab Mentor-Mentee Compact</title>
+
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79429674-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-79429674-1');
+</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Archivo:400,700">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:200,300,400">
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="front.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Living Landscapes Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="People.html">People</a>
+</li>
+<li>
+  <a href="Research.html">Research</a>
+</li>
+<li>
+  <a href="Publications.html">Publications</a>
+</li>
+<li>
+  <a href="Opportunities.html">Join The Lab</a>
+</li>
+<li>
+  <a href="LabCompact.html">Lab Compact</a>
+</li>
+<li>
+  <a href="CodeOfConduct.html">Code of Conduct</a>
+</li>
+<li>
+  <a href="ReadingList.html">Lab Reading List</a>
+</li>
+<li>
+  <a href="Fun.html">Fun</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Living Landscapes Lab Mentor-Mentee
+Compact</h1>
+
+</div>
+
+
+<div id="overview" class="section level2">
+<h2>OVERVIEW</h2>
+<p>This mentor-mentee compact outlines 1) what you as a graduate student
+mentee can expect from me, 2) what I as a mentor expect from you, and 3)
+other important details about data, authorship, etc. If you are a Living
+Landscapes member, will be a member soon, or are interested in joining,
+please read this compact carefully. This is not a contract. It is a
+living document, meaning it can and will evolve with your input and my
+experience. I’m looking forward to working with you, getting amazing
+conservation research done, and supporting your professional growth!</p>
+<div id="what-to-expect-from-me" class="section level3">
+<h3>WHAT TO EXPECT FROM ME</h3>
+<p>Overall, my goal is to help students develop into colleagues in the
+natural resources management field. That’s what the USGS Coop Units are
+all about!</p>
+<ul>
+<li><strong>I will respect all students as individuals without regard to
+gender, race, national origin, religion, disability, health issues, or
+sexual orientation, and I will foster a climate of positivity in the
+lab.</strong> I will also not tolerate harassment based on any of these
+things.</li>
+<li><strong>I will be committed to help provide financial resources for
+the graduate student to conduct their thesis/dissertation
+research.</strong> I will discuss and agree to funding details with
+students prior to hiring them. Normally, I will only hire students when
+I have grant funds to support RA (meaning the student doesn’t have to
+teach to support themselves). However, if funding changes, I will notify
+students the semester before they need to TA.</li>
+<li><strong>I will be committed to each student’s research
+project.</strong> I will work with each student to help guide and plan
+the research project, set attainable goals, and a timeline for
+completion of the project.</li>
+<li><strong>I will be committed to meeting one-on-one with students on a
+regular basis.</strong> I will regularly review student progress and
+provide timely feedback and goal setting advice. I will make time to
+have weekly one-on-one meetings with students in addition to weekly lab
+meetings. Also, if my door is open, please pop in and ask questions. I’m
+here to help.<br />
+</li>
+<li><strong>If I am concerned about a student’s research progress or
+other work-related issues, I will quickly and directly address issues
+with the student.</strong> If I notice a pattern of poor research
+productivity, time management, or issues with how students interact with
+Cooperators or fellow lab members, I will address these in a timely
+manner through a one-on-one conversation. We can jointly make a plan to
+get back on track.</li>
+<li><strong>I will promote student training in professional skills
+needed for a successful career.</strong> These skills include oral and
+written communication, writing grants (this will mostly be for/with PhD
+students), time management, collaborative research, networking, working
+with Cooperators and practitioners, teaching, and mentoring. I will
+encourage the student to seek opportunities to develop skills in these
+areas outside the lab as well.</li>
+<li><strong>I will encourage and foster each student’s professional
+network.</strong> I will help guide students, if necessary, in finding
+appropriate external mentors, particularly in the fields and
+organizations that the student is interested in working for. These
+external mentors will be your network as you move forward in a
+scientific career. However, it is up to YOU to cultivate these
+relationships.</li>
+<li><strong>I will set an example for work-life balance.</strong> Just
+like you, I have a life outside of work. I love spending time with my
+family, traveling, running, reading, hiking, camping, playing board
+games/table-top RPGs, gardening, and cooking. To make sure I can do all
+those things, I try to work efficiently during “normal” business hours
+(0800 – 1630 CT weekdays). That means I will likely not answer emails
+outside of those times, unless it’s an emergency.</li>
+</ul>
+</div>
+<div id="what-i-expect-from-you" class="section level3">
+<h3>WHAT I EXPECT FROM YOU</h3>
+<div id="professional-interactions" class="section level4">
+<h4>Professional interactions</h4>
+<ul>
+<li>The first rule of our lab is to be respectful to everyone.<br />
+</li>
+<li>The second rule is that students will be professional in all
+interactions with the Unit’s Cooperators (Arkansas Game &amp; Fish
+Commission, US Fish &amp; Wildlife Service, US Geological Survey,
+University of Arkansas). This means that students will meet their
+obligations to Cooperators, attend required Cooperator meetings, and
+always seek to present a good image to our Cooperators. This is
+foundational to the Coop Unit program.</li>
+<li>I expect you to write professional e-mails.</li>
+<li>If you are taking the lead on communicating with other groups
+outside of the lab for a research project, I will set up the initial
+interaction. I may ask the student to lead subsequent interactions. I
+expect to be ’ccd on important e-mails. You are responsible for
+identifying ahead of time what constitutes an “important
+communication.”</li>
+</ul>
+</div>
+<div id="lab-interactions" class="section level4">
+<h4>Lab interactions</h4>
+<ul>
+<li>Treat other lab members with respect.</li>
+<li>You will be an active contributing member to all team efforts and
+collaborations and will respect individual contributions. You will
+contribute to an environment that is safe, equitable, and free of
+harassment.</li>
+<li>You are encouraged to participate in lab-wide fun activities and to
+foster a fun and welcoming lab community. For example, I host cookouts
+at my house ~2 times each year. We celebrate when lab mates graduate or
+have major achievements. We sometimes go on hikes or field site visits
+as a lab.</li>
+<li>If you have issues with a particular lab member, think about the
+best way to approach the situation. When you are calm, try to initiate a
+conversation about your frustrations and resolve the issue. If you need
+help managing these situations, talk to me.</li>
+</ul>
+</div>
+<div id="work-habits-organization-and-time-management"
+class="section level4">
+<h4>Work habits, organization, and time management</h4>
+<ul>
+<li>You have the primary responsibility for successfully completing your
+degree. This includes commitment to your work in class and in the lab.
+You should maintain a high level of professionalism, motivation,
+engagement, scientific curiosity, and ethical standards.</li>
+<li>Attend and be prepared for our one-on-one meetings and lab meetings.
+I provide my best feedback when students organize questions, data,
+results, presentations, and writing before meeting with me. I expect
+students to drive one-on-one meeting agendas. IMPORTANT: I can’t provide
+feedback if you don’t give me something tangible to review.</li>
+<li>Try to figure out answers on your own before approaching me. Bend
+your considerable ingenuity to finding answers from your lab mates, the
+internet, etc. You’re an aspiring scientist, and you can totally do
+this! However, I’m absolutely here to help and answer questions. I don’t
+want you to waste too much time spinning your wheels, so if you feel
+like you’re completely stumped with writing, coding, study design, etc.,
+let me know!</li>
+<li>Know and comply with the policies, deadlines, requirements of the
+graduate program, school, university, and Arkansas Coop Unit. Complete
+all your USGS safety trainings, university trainings, etc. in a timely
+manner. Graduation, enrollment, registration, deadlines, and
+requirements can change, and it is your responsibility to stay apprised.
+- Be present in the office during normal-ish business hours at least 2 –
+3 times weekly. Normal-ish business hours in my lab are 0800 – 1630 CT
+Monday through Friday, although I do not require students to come and
+leave at a defined time each day. The obvious exceptions are during the
+student’s field season, vacation, and university closures. Taking
+breaks, working odd hours, etc. is okay. That’s grad school life! But if
+you are not disciplined and multitasking, it can take you 60 hours to
+complete what a disciplined student can in 40 hours. I expect people are
+actively working ~ 40h per week (reading, etc. is part of this).
+Sometimes it is necessary to put in extra time to meet deadlines.</li>
+<li>Strive to meet deadlines and manage your progress.<br />
+</li>
+<li>Organize your work for each week, semester, and year. Create and
+maintain a list of short-, medium- and long-term goals with deadline to
+keep you on track. Calibrate your lists to make them attainable so you
+don’t burn out, but also be ambitious. Time never stands still, and
+things (particularly writing) always take longer than you think they
+will.</li>
+<li>Strive for a healthy work-life balance. You are more than your work
+and research. Do something that gives you joy every day. Get enough
+sleep. Embrace and grow your mental, physical, and spiritual health.
+Research is a long game, and a centered person can be more disciplined,
+creative, and productive.</li>
+</ul>
+</div>
+<div id="holidays-breaks-and-vacation" class="section level4">
+<h4>Holidays, Breaks, and Vacation</h4>
+<ul>
+<li>Students are not expected to work when the university is closed for
+holidays or breaks. These holidays and breaks are defined by the
+University of Arkansas.<br />
+</li>
+<li>Each student also has 2 additional weeks of vacation a year.
+Importantly, this is a Living Landscapes Lab policy—not a university
+policy. Let me know as far ahead of time as possible if/when you will be
+going on vacation. I require a written request 1 month in advance of a
+one-week vacation, and longer if you plan on taking all your vacation at
+once. You are responsible for organizing the care of your experiments,
+fieldwork, classes, etc. during your vacation. I reserve the right to
+not approve vacation requests if deadlines are not being met, Cooperator
+relationships are on the line, etc. Graduate students do not get summers
+off or spring break off: students need to request vacation if they want
+time off during summer or spring break (see the official university
+holidays and closures).</li>
+</ul>
+</div>
+<div id="authorship-publications-and-sharing-materials"
+class="section level4">
+<h4>Authorship, Publications, and Sharing Materials</h4>
+<ul>
+<li>I typically do not decide order of authorship at the beginning of a
+project. Things can change over time and some individuals may end up
+contributing more than others. When it is clear we have a publishable
+story that is over half finished, I will meet with the group and we can
+decide authorship order.</li>
+<li>I expect the first author to perform most of the work, take the lead
+on writing the paper, and take the lead on journal revisions. I will
+work with each student to help plan how to write each section, sketch
+out figures, provide general feedback, and polish each paper.</li>
+<li>We adhere to the Ecological Society of America’s authorship
+criteria.</li>
+<li>Students will adhere to all USGS FSP policies. If you don’t know
+what this is, ask me for instructions.</li>
+<li>Before submitting any paper, I require all computer code to be
+annotated and placed in a shared OneDrive folder. I also require
+metadata files for all data.</li>
+</ul>
+<p>NOTE: Inspired by Coaker Lab Compact (<a
+href="https://www.coakerlab.org/mentoring-compact--graduate-student.html"
+class="uri">https://www.coakerlab.org/mentoring-compact--graduate-student.html</a>)</p>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
