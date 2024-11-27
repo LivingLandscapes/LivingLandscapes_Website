@@ -21,8 +21,9 @@ body, td {
 
 November 2024
 
-- Ken Wilson successfully defended his Master's thesis on feral hog impacts on avian communities!! He did a fantastic job, and we're so excited to see where he goes next!
-- We are so excited that **Anne Puchalsky** will be joining our lab as a Master's Student! Anne will be studying King Rail breeding ecology and movement in Arkansas. Check back on the [People Tab](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) for profile pic and bio soon!
+- Some positivity for your day: Our new publication in [Biological Conservation](https://doi.org/10.1016/j.biocon.2024.110865) shows that the threatened American Burying Beetle increased in abundance and that this increase is linked to large-scale grassland restoration.
+- **Ken Wilson** successfully defended his Master's thesis on feral hog impacts on avian communities!! He did a fantastic job, and we're so excited to see where he goes next!
+- We are so excited that **Anne Puchalsky** will be joining our lab as a Master's Student! Anne will be studying King Rail breeding ecology and movement in Arkansas. Check out the [People Tab](https://livinglandscapes.github.io/LivingLandscapes_Website/People.html) for details!
 
 ---
 
