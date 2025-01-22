@@ -26,30 +26,39 @@ In our lab, we seek to create, keep, and spread a climate of positivity and incl
 
 <!-- There are no positions available at this time. -->
 
-## MS Research Assistantship: King Rail Breeding Ecology
+## Postdoctoral Fellow: Wild Turkey Population Ecology
 
-### Project Description: 
+### Project Description:
 
-A Masters of Science research assistant position is available starting the Spring 2025 Semester at the University of Arkansas Fayetteville. A detailed research proposal describing objectives, data collection, and analyses as well as a written thesis are partial requirements of the Masters of Science degree. 
+We seek a Postdoctoral Fellow in Population/Spatial Ecology at the Arkansas Cooperative Fish & Wildlife Research Unit, housed in the University of Arkansas Department of Biological Sciences. Overall, we are looking for a positive and creative individual with strong oral and written communication skills. The successful applicant will have the ability to be both an independent and motivated problem solver and collaborative team member capable of co-producing relevant science with scientists and on-the-ground practitioners.
 
-The project is focused on the King Rail in southeastern Arkansas. The successful candidate will lead a technician in collecting data about nest success and movement ecology of juvenile King Rails, assessing the role water level management plays in King Rail breeding success.
-Research activities will be conducted in southeastern King Rail from March-July 2025 and 2026.  The student will work closely in collaboration with the Arkansas Game and Fish Commission during the field work and throughout the project.  Travel costs, including rustic housing, will be provided while in the field.
+This position is funded by the Arkansas Game & Fish Commission. The primary duty of the postdoctoral fellow will be to estimate and map population growth rates of turkeys across Arkansas using integrated population models. Additional duties will include identifying areas with the greatest potential to positively impact turkey populations through management and providing technical assistance for development of public-facing data products such as Shiny apps, data communications, etc. There is also an opportunity to analyze a large extant Acoustic Recording Unit database to assess savanna, glade, and grassland restoration outcomes across Arkansas. The Postdoctoral Fellow will be part of the Arkansas Cooperative Fish & Wildlife Research Unit and will work closely with a team comprised of University faculty, U.S. Geological Survey scientists, and Arkansas Game & Fish Commission Wildlife and Private Lands Divisions. Scientific and data products from this research will directly support conservation decision-making in Arkansas.
 
-The student will be advised by Dr. Auriel Fournier (https://aurielfournier.github.io/), an Associate Research Scientist and Director of the Forbes Biological Station (https://www.inhs.illinois.edu/fieldstations/forbes) at the Illinois Natural History Survey (INHS; https://www.inhs.illinois.edu/) and Caleb Roberts, Unit Lead of the USGS Arkansas Cooperative Fish and Wildlife Research Unit at the University of Arkansas (https://livinglandscapes.github.io/LivingLandscapes_Website/).  The successful candidate will pursue their degree through the Department of Biology at the University of Arkansas and the candidate must meet the minimum admission requirements of the graduate program (https://biology.uark.edu/academics/graduate/requirements.php).
+The position will ideally be located in Fayetteville, AR, at the University of Arkansas Department of Biological Sciences, but fully remote-work will be considered for exceptional candidates within the U.S. Fayetteville is listed as one of the best places to live in the US and has many wonderful outdoor recreation opportunities including the Ozark-St. Francis National Forest, the Buffalo National Scenic River, and world-class mountain biking trails. This is a full-time, Postdoctoral Fellow position with salary depending on experience ($60,000-$65,000 per year). Funding is also available for 1 national conference, 1 regional conference, and travel to meet with collaborators. This is a 1-year appointment, renewable based on the need for the position, availability of funding, and continued satisfactory level of performance in the role. Regular, reliable, and non-disruptive attendance is an essential job duty, as is the ability to create and maintain collegial, harmonious working relationships with others.  
 
-### Qualifications: 
+### Qualifications:
 
-Bachelors degree in Biology, Ecology, Wildlife Science, or related field. Competitive candidates will have an interest in learning or expanding their quantitative skills, an interest in applied conservation and management, and expertise or experience with wetlands, marsh birds, or other avian species.  Applicants must also demonstrate both a willingness and ability to work long hours under challenging field conditions.   A collaborative, positive attitude and eagerness to learn new skills are necessary for the successful candidate.
+#### Minimum Qualifications:
 
-### Salary and Appointment: 
+- PhD in Ecology, Biology, or a related field with a strong quantitative background 
 
-This position includes a two-year 50% research assistantship with health insurance and a tuition waiver through the Department of Biology at the University of Arkansas.  9-month GA stipend is approximately $20,610. During the summer, the student will switch to hourly pay, starting at $15.00 per hour.
+#### Preferred Qualifications:
 
-### Application: 
+-	Experience with R and analyzing spatial data using GIS, Google Earth Engine, etc.
+-	Proficiency in integrated population modeling
+-	Record of success conducting research, evidenced by publication in peer-reviewed journals 
+-	Strong organizational, leadership, and communication skills to co-produce and conduct a research project with numerous collaborators (e.g., natural resource agencies, university faculty, private land owners, etc.).
 
-Applications should be received by September 30th, 2024 for consideration. Interested applicants should email a single PDF to auriel@illinois.edu that includes: 1) cover letter stating why you are interested in the position and if/how you meet the qualifications listed above, 2) CV, 3) names and contact information for three professional references, and 4) copies of unofficial transcripts. Please put “KIRA MS Application” in the email subject line and include your last name in all attached file names. 
+### Salary and Appointment:
 
-Please also feel free to reach out to Dr. Auriel Fournier and Dr. Roberts if you have additional questions or would like to schedule a conversation. The successful applicant will be expected to formally apply to the graduate program at the University of Arkansas. All admission decisions must be approved by the Graduate School. 
+- \$60,000 - \$65,000
+- This is a 1-year appointment, renewable based on the need for the position, availability of funding, and continued satisfactory level of performance in the role.
+
+### To Apply: 
+
+Submit these application materials: 1) your CV, 2) a maximum 2-page cover letter indicating how you meet the qualifications of the position, why you are interested in this position specifically, how this position might support your career goals, and why you might be a good fit for this project, and 3) contact information for three (3) professional references willing to provide letters of reference. Letters will only be requested for a short-list of applicants. 
+
+Please also feel free to reach out to Dr. Roberts if you have additional questions or would like to schedule a conversation. Looking forward to seeing your application in the pool!
 
 
 <!-- ## Ph.D. Assistantship – Invasion ecology: early detection + impacts -->

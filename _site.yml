@@ -12,7 +12,9 @@ navbar:
       href: Publications.html
     - text: "Join The Lab"
       href: Opportunities.html
-    - text: "Code of Conduct"
+    - text: "Lab Compact"
+      href: LabCompact.html
+    - text: "Coding Code of Conduct"
       href: CodeOfConduct.html
     - text: "Lab Reading List"
       href: ReadingList.html

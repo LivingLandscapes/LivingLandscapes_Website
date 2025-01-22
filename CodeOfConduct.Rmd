@@ -1,5 +1,5 @@
 ---
-title: "Living Landscapes Lab Code of Conduct"
+title: "Living Landscapes Lab Coding Code of Conduct"
 output:
   html_document:
     # toc: false
@@ -11,6 +11,8 @@ output:
        in_header: [g_analytics.html,header_pubs.html]
     css: front.css
 ---
+
+### NOTE: This is our "coding" code of conduct--not to be confused with our lab compact.
 
 ## Our Pledge
 

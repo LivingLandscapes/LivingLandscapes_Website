@@ -71,7 +71,7 @@ knitr::include_graphics("images/fun/VO.jpg")
 
 An essay by Caleb Roberts. Published at Terrain.org.
 
-Photo by Christine Chitwood. 
+Photo by Christine Bielski. 
 
 
 </div>
@@ -94,7 +94,7 @@ knitr::include_graphics("images/fun/RS.jpg")
 
 #### King Rail-zilla
 
-Probably by Jess Schmit.
+Probably by Jess Novobilsky.
 
 Photo by Caleb Roberts.
 
