@@ -19,6 +19,12 @@ body, td {
 
 ---
 
+January 2025
+
+- Vertebrates in trade are a huge source of new invasive species. We evaluated nearly 15,000 taxa and found 32 species (10 fish and 22 reptiles) that have the highest risks for establishment, spread, and impact in the United States. Check out the paper in [Biological Conservation](https://www.sciencedirect.com/science/article/pii/S000632072400449X) for more information!
+
+---
+
 November 2024
 
 - Some positivity for your day: Our new publication in [Biological Conservation](https://doi.org/10.1016/j.biocon.2024.110865) shows that the threatened American Burying Beetle increased in abundance and that this increase is linked to large-scale grassland restoration.
