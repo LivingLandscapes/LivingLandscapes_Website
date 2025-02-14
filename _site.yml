@@ -18,8 +18,8 @@ navbar:
       href: CodeOfConduct.html
     - text: "Lab Reading List"
       href: ReadingList.html
-    - text: "Fun"
-      href: Fun.html
+    # - text: "Fun"
+    #   href: Fun.html
     # - text: " "
     #   icon: fab fa-twitter
     #   href: "https://twitter.com/calebproberts"
