@@ -100,6 +100,24 @@ knitr::include_graphics("images/research/Solar_Tatiana12.jpg")
 <div class="row">
 <div class="col-sm-8">
 
+#### *King Rail Nest Success and Juvenile Migratory Behavior in Arkansas*
+
+King Rails (*Rallus elegans*) are a secretive marsh bird occurring in emergent wetlands across the eastern United States. King Rails are a species of greatest conservation need in Arkansas and in many species across their range. Despite their conservation status and sharp population declines over the past several decades, we know very little about King Rail breeding ecology and habitat needs, which are all priority information needs across their range. Our previous research has shown King Rails are successfully breeding at Choctaw West Wildlife Management Area in southeastern Arkansas and that the majority of the King Rails at the site are resident (they do not migrate). In this project, we will build on our previous research by investigating 1) whether a King Rail that has hatched to a pair of resident or migratory parents stays resident or migratory its entire life, 2) how factors such as water levels and vegetation structure influence King Rail nesting success. This project will inform habitat management for breeding King Rails at the local and regional scales. 
+
+
+</div>
+<div class="col-sm-4">
+```{r BabyKIRA, fig.cap = "King Rail chick by Jess Novobilsky.", out.width='100%', echo=F}
+knitr::include_graphics("images/research/BabyKIRA.jpg")
+```
+</div>
+</div>
+
+--- 
+
+<div class="row">
+<div class="col-sm-8">
+
 #### *A rapid mapping tool for quantifying grassland management outcomes*
 
 In grasslands, the North American biome with the greatest loss of biodiversity, documentation of successful restoration and management is imperative for building large-scale restoration programs. However, quantifying outcomes from grassland management efforts is made difficult by the lack of tools to rapidly map and track core grassland habitats and grassland biodiversity responses to management. In this project, we will address this need by developing a rapid mapping tool to quantify grassland management outcomes on public and private lands. To accomplish this, we will complete two objectives: 1) develop a tool to identify and map grassland habitat cores, and 2) use this tool to quantify grassland habitat core and grassland bird community responses to management in and surrounding three US Fish & Wildlife Service Arkansas refuges, focusing on Southeastern grassland species of conservation concern. Tools and products from this project will facilitate grassland management strategies in the Arkansas USFWS refuges, provide grassland bird community and population trends, and will help determine the applicability of this approach for public and private lands across the Southeast region. Other collaborators include Arkansas Game & Fish Commission, USDA Natural Resources Conservation Service, and Quail Forever.

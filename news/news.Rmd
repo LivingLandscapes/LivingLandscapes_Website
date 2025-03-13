@@ -19,6 +19,15 @@ body, td {
 
 ---
 
+March 2025
+
+- Two Living Landscapes Lab students won awards at the 2025 Joint Meeting of the Arkansas Chapters of the American Fisheries Society and The Wildlife Society! We're so proud!!!
+  + **Paul Akpejeluh** won 2nd place in the graduate student oral presentation competition.
+  + **Lauren Luther** won 1st place in the undergraduate poster competition.
+- At a continental scale, we found that extreme heat and low precipitation at decadal scales are associated with high bird community variability and these climate variables outperformed species richness in explaining variability. Check out our new paper, led by Dr. Samantha Cady, in  [Ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.70005) for the details!
+
+---
+
 January 2025
 
 - Vertebrates in trade are a huge source of new invasive species. We evaluated nearly 15,000 taxa and found 32 species (10 fish and 22 reptiles) that have the highest risks for establishment, spread, and impact in the United States. Check out the paper in [Biological Conservation](https://www.sciencedirect.com/science/article/pii/S000632072400449X) for more information!
