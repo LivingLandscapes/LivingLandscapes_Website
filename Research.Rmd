@@ -25,17 +25,38 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Current Projects
 
+----
+
 <div class="row">
 <div class="col-sm-8">
 
-#### Toward identifying candidate species for an aquatic nuisance species watchlist in Arkansas: Customizing and improving ecological risk screening summaries for aquatic invasive species
+#### Quantifying and communicating successes in savanna restoration on Arkansas private lands
 
-Creating watchlists for potential high-risk invaders can serve as a strong proactive invasive species management tool, but the biggest challenge for creating watchlists is identifying which species out of thousands are “high risk” for becoming harmful invaders. Rapid horizon scans can narrow down non-native species lists from thousands of non-native species to hundreds, and then in-depth risk screening summaries, such as the U.S. Fish & Wildlife Service’s (USFWS) Ecological Risk Screening Summary (ERSS) protocols, can further winnow lists down to a handful of high-risk species. However, there remain key gaps in the USFWS ERSS protocols: the summaries are not tailored for finer-scale ecoregions, the climatic analyses do not account for future climate scenarios, and the literature review for understanding risks of establishment, spread, and impacts is not standardized. To support preventative invasive species management in Arkansas by identifying potential watchlist species, there is a critical need to have and implement a standardized protocol for in-depth ecological risk screening summaries for species that are high-risk for becoming invasive in Arkansas. To fill this need, we propose to customize and improve upon the USFWS ERSS protocols. Our specific objectives are: 1) Customize and make improvements on the USFWS ERSS protocols for Arkansas by (a) tailoring climate matching to Arkansas and (b) developing and implementing a standardized, semi-automatic systematic literature review for high-risk species; and 2) Implement the new Arkansas ecological risk screening summary protocols on the top 10 heighted risk freshwater fish species identified in the U.S. Geological Survey’s Vertebrates in Trade Horizon Scan. As a result of this project, Arkansas will have customized and improved ecological risk screening summary protocols for conducting in-depth risk screening of potential invasive species. We envision these ERSS protocols will fit into an overarching workflow for proactive invasive species management that starts with (i) horizon scanning (rapid risk screening), moves to (ii) ecological risk screening (in-depth risk screening for species flagged in horizon scanning), and then finishes with (iii) considering species categorized as high-risk for addition to an Arkansas aquatic nuisance species watchlist. This project will ensure Arkansas has a clear set of methods for identifying potential watchlist species. 
+In much of the Southeastern US, lack of fire management and subsequent woody plant encroachment in open pine savannas have led to declines in forest stand health, degraded watershed condition, increased fire risk, and losses of savanna-dependent species, such as Northern Bobwhite. These negative impacts have motivated savanna restoration efforts by private landowners, agencies, and conservation organizations spanning local to regional scales. However, there are critical needs to 1) understand and learn from restoration outcomes and 2) communicate restoration outcomes to landowners and partners. For example, in Arkansas and Louisiana, the Arkansas Game & Fish Commission, Lower Mississippi Valley Joint Venture, American Bird Conservancy, NRCS, and USFWS are working with private landowners to strategize and incentivize savanna restoration under the “Open Pines Regional Conservation Partnership Program”. The Arkansas Unit will help the Open Pines RCPP coalition learn from and communicate successful savanna restoration outcomes to private landowners. In this project, we will 1) quantify outcomes of savanna restoration in terms of forest stand health, 2) quantify outcomes from savanna restoration efforts in terms of quail population and savanna bird community responses, and 3) predict outcomes of savanna restoration efforts on lands that have not received restoration treatments.
 
 </div>
 <div class="col-sm-4">
-```{r ANS, fig.cap = "Image credit: Lindsey LaBrie", out.width='100%', echo=F}
-knitr::include_graphics("images/research/InvasiveAquarium.png")
+```{r RCPP, fig.cap = "Image credit: Caleb Roberts", out.width='100%', echo=F}
+knitr::include_graphics("images/research/Peeples_RCPP_2025.jpg")
+```
+
+</div>
+</div>
+
+----
+
+<div class="row">
+<div class="col-sm-8">
+
+#### Quantifying invasive carp range extents and impacts of invasive carp on native fish communities using environmental DNA metabarcoding
+
+Invasive carp can have strong negative impacts on the economy, fisheries, and species of conservation concern. The invasive carp range continues to expand into more and more of Arkansas’ waters. Thus, there arise two critical needs: 1) understand where the current leading edges of the invasive carp range are located, and 2) to quantify the effects of invasive carp presence on native fish communities. To meet these two needs, we are proposing an Arkansas-wide eDNA metabarcoding study. The objectives of this study are: 1) Document and update the current known extent of invasive carp ranges in Arkansas, and 2) Quantify the effect of invasive carp presence on native fish communities in Arkansas along the invasion gradient. We will accomplish this by collecting eDNA in multiple large Arkansas rivers (e.g., the Arkansas River, the Red River, the White River), conducting DNA metabarcoding analysis, and developing multi-species occupancy models. 
+
+
+</div>
+<div class="col-sm-4">
+```{r eDNA, fig.cap = "Image credit: Sam Stukel, USFWS", out.width='100%', echo=F}
+knitr::include_graphics("images/research/InvasiveCarp_SamStukel_USFWS.jpg")
 ```
 
 </div>
@@ -156,6 +177,23 @@ knitr::include_graphics("images/research/FeralHog_MyFWC.jpg")
 # Past Projects
 
 --- 
+
+<div class="row">
+<div class="col-sm-8">
+
+#### Toward identifying candidate species for an aquatic nuisance species watchlist in Arkansas: Customizing and improving ecological risk screening summaries for aquatic invasive species
+
+Creating watchlists for potential high-risk invaders can serve as a strong proactive invasive species management tool, but the biggest challenge for creating watchlists is identifying which species out of thousands are “high risk” for becoming harmful invaders. Rapid horizon scans can narrow down non-native species lists from thousands of non-native species to hundreds, and then in-depth risk screening summaries, such as the U.S. Fish & Wildlife Service’s (USFWS) Ecological Risk Screening Summary (ERSS) protocols, can further winnow lists down to a handful of high-risk species. However, there remain key gaps in the USFWS ERSS protocols: the summaries are not tailored for finer-scale ecoregions, the climatic analyses do not account for future climate scenarios, and the literature review for understanding risks of establishment, spread, and impacts is not standardized. To support preventative invasive species management in Arkansas by identifying potential watchlist species, there is a critical need to have and implement a standardized protocol for in-depth ecological risk screening summaries for species that are high-risk for becoming invasive in Arkansas. To fill this need, we propose to customize and improve upon the USFWS ERSS protocols. Our specific objectives are: 1) Customize and make improvements on the USFWS ERSS protocols for Arkansas by (a) tailoring climate matching to Arkansas and (b) developing and implementing a standardized, semi-automatic systematic literature review for high-risk species; and 2) Implement the new Arkansas ecological risk screening summary protocols on the top 10 heighted risk freshwater fish species identified in the U.S. Geological Survey’s Vertebrates in Trade Horizon Scan. As a result of this project, Arkansas will have customized and improved ecological risk screening summary protocols for conducting in-depth risk screening of potential invasive species. We envision these ERSS protocols will fit into an overarching workflow for proactive invasive species management that starts with (i) horizon scanning (rapid risk screening), moves to (ii) ecological risk screening (in-depth risk screening for species flagged in horizon scanning), and then finishes with (iii) considering species categorized as high-risk for addition to an Arkansas aquatic nuisance species watchlist. This project will ensure Arkansas has a clear set of methods for identifying potential watchlist species. 
+
+</div>
+<div class="col-sm-4">
+```{r ANS, fig.cap = "Image credit: Lindsey LaBrie", out.width='100%', echo=F}
+knitr::include_graphics("images/research/InvasiveAquarium.png")
+```
+</div>
+</div>
+
+----
 
 <div class="row">
 <div class="col-sm-8">
