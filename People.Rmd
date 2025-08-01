@@ -7,7 +7,7 @@ output:
   # pdf_document: default
 ---
 
-Lab members listed alphabetically by last name. Last updated: July 7, 2025.
+Lab members listed alphabetically by last name. Last updated: August 1, 2025.
 
 ```{r, echo = FALSE, include = FALSE}
 # List of packages necessary to run this script:
@@ -35,9 +35,9 @@ profile_pics <- unlist(profile_pics$profilePicFiles)
 
 # Create data.frame with lab member info
 people_tbl <- data.frame(
-  Members = c("Caleb Roberts", "Paul Akpejeluh", "Anne Puchalsky", "Michael Ferrara", "Lindsey LaBrie", "Lauren Luther", "Evan Wilson"),
-  Roles = c("PI", "PhD Student", "Master's Student", "Master's Student",  "PhD Student", "Master's Student", "Postdoctoral Fellow"),
-  Contact = c("cr065@uark.edu", "pa024@uark.edu", "annep@uark.edu", "mcf017@uark.edu",  "llabrie@uark.edu", "leluther@uark.edu", "ew169@uark.edu"),
+  Members = c("Caleb Roberts", "Paul Akpejeluh", "Anne Puchalsky", "Michael Ferrara", "Lindsey LaBrie", "Lauren Luther", "Evan Wilson", "Andrew Ruegsegger"),
+  Roles = c("PI", "PhD Student", "Master's Student", "Master's Student",  "PhD Student", "Master's Student", "Postdoctoral Fellow", "PhD Student"),
+  Contact = c("cr065@uark.edu", "pa024@uark.edu", "annep@uark.edu", "mcf017@uark.edu",  "llabrie@uark.edu", "leluther@uark.edu", "ew169@uark.edu", "ajruegse@uark.edu"),
   Bios = c(
     "Caleb is the leader of the Living Landscapes Lab. He works for the U.S. Geological Survey as the Unit Leader of the Arkansas Cooperative Fish & Wildlife Research Unit. Caleb's research interests include ecological resilience, grasslands, landscape ecology, fire, birds, invasive species, plants, community ecology, agroecosystems, complexity theory, and rangelands. Caleb is from western Kentucky, and he enjoys writing, running, reading, cooking, gardening, board games, hiking, and hanging out with his wife, daughter, and cats.",
     "Paul’s research interests include rangeland ecology, geospatial mapping, GIS, and remote sensing. He is joining the Living Landscapes Lab to pursue a PhD in Invasion Ecology focusing on developing a national-scale early detection and rapid response tool to predict spread of invasive plants using Cocongrass as focal species. He completed his MS in Applied Ecology at the University of Nebraska-Lincoln and his research focused on monitoring abandoned bomas (livestock enclosures) using multi-scale remote sensing data at multiple temporal resolutions to better understand vegetation dynamics with their surrounding landscapes. He is originally from Nigeria, where he holds a BS in Environmental Science. In his free time, he enjoys landscape and nature photography, watching sports and travelling.",
@@ -45,7 +45,8 @@ people_tbl <- data.frame(
     "Michael will be studying how birds use solar panel arrays with understories of native grasses and forbes compared to those with turf grass. He is passionate about species and ecosystem conservation. His primary research interests are in population dynamics, interspecies interactions and habitat use to protect species of concern. Michael received his B.S. from SUNY College of Environmental Science and Forestry and since then has been working with avian species across the eastern United States. He is originally from Long Island, New York and in his free time, he enjoys hiking, birding, photography, traveling, cooking, playing video games and watching sports.",
     "Lindsey is interested in invasive species ecology of riverine ecosystems, especially in the context of climate change. In the Living Landscapes Lab, she will be researching differences in invasive species management policies across the country, determining invasion potential for various aquatic nuisance species throughout the state of Arkansas, and estimating future invasion risks using climate change models and horizon mapping techniques. She completed her M.S. in Biology at the University of South Dakota in May 2023. She received a B.S. in Fisheries & Wildlife and a B.A. in German Language & Literature from the University of Nebraska-Lincoln in May 2020. Lindsey is originally from Hastings, Nebraska. When she's not on the river or thinking about fish, you'll find her drinking coffee, gardening, painting, cooking, rollerblading, camping, indoor rock climbing, or snuggling with her cat Jinx.",
     "Lauren is joining the Living Landscapes lab as a Master’s student to study the impacts of pine savanna restoration in the Southeast. She is passionate about habitat restoration and looks forward to learning about and working with such an important and iconic ecosystem type. Lauren received a B.S. in Biology from the University of Arkansas and studied the effects of solar panels on the quality of data collected by autonomous recording units for her undergraduate honors thesis. Originally from central Arkansas, Lauren enjoys spending her free time hiking with her dog, canoeing, and calling the hogs!",
-    "Evan is a research ecologist that studies how human activities directly and indirectly impact wildlife species’ population dynamics and space use. At the University of Arkansas, he will be developing an integrated population model to better understand the drivers of wild turkey (Meleagris gallopavo) population dynamics in Arkansas. He received his doctorate from the University of Wisconsin, where he studied the impacts of habitat and climate change on snowshoe hare populations and associated ecological communities. In his free time, he enjoys hiking, fishing, birding, watching baseball."
+    "Evan is a research ecologist that studies how human activities directly and indirectly impact wildlife species’ population dynamics and space use. At the University of Arkansas, he will be developing an integrated population model to better understand the drivers of wild turkey (Meleagris gallopavo) population dynamics in Arkansas. He received his doctorate from the University of Wisconsin, where he studied the impacts of habitat and climate change on snowshoe hare populations and associated ecological communities. In his free time, he enjoys hiking, fishing, birding, watching baseball.",
+    "Coming soon!"
   ),
   Pics = rep("", length(profile_pics))
 )
