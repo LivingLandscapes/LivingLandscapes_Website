@@ -7,7 +7,7 @@ output:
   # pdf_document: default
 ---
 
-Lab members listed alphabetically by last name. Last updated: August 1, 2025.
+Lab members listed alphabetically by last name. Last updated: August 4, 2025.
 
 ```{r, echo = FALSE, include = FALSE}
 # List of packages necessary to run this script:
@@ -46,7 +46,7 @@ people_tbl <- data.frame(
     "Lindsey is interested in invasive species ecology of riverine ecosystems, especially in the context of climate change. In the Living Landscapes Lab, she will be researching differences in invasive species management policies across the country, determining invasion potential for various aquatic nuisance species throughout the state of Arkansas, and estimating future invasion risks using climate change models and horizon mapping techniques. She completed her M.S. in Biology at the University of South Dakota in May 2023. She received a B.S. in Fisheries & Wildlife and a B.A. in German Language & Literature from the University of Nebraska-Lincoln in May 2020. Lindsey is originally from Hastings, Nebraska. When she's not on the river or thinking about fish, you'll find her drinking coffee, gardening, painting, cooking, rollerblading, camping, indoor rock climbing, or snuggling with her cat Jinx.",
     "Lauren is joining the Living Landscapes lab as a Master’s student to study the impacts of pine savanna restoration in the Southeast. She is passionate about habitat restoration and looks forward to learning about and working with such an important and iconic ecosystem type. Lauren received a B.S. in Biology from the University of Arkansas and studied the effects of solar panels on the quality of data collected by autonomous recording units for her undergraduate honors thesis. Originally from central Arkansas, Lauren enjoys spending her free time hiking with her dog, canoeing, and calling the hogs!",
     "Evan is a research ecologist that studies how human activities directly and indirectly impact wildlife species’ population dynamics and space use. At the University of Arkansas, he will be developing an integrated population model to better understand the drivers of wild turkey (Meleagris gallopavo) population dynamics in Arkansas. He received his doctorate from the University of Wisconsin, where he studied the impacts of habitat and climate change on snowshoe hare populations and associated ecological communities. In his free time, he enjoys hiking, fishing, birding, watching baseball.",
-    "Coming soon!"
+    "Andrew is interested in plant community assembly in grassland and woodland communities. He is joining the Living Landscapes lab as a PhD student to investigate the abiotic and biotic factors that affect assembly in Ozark glade communities using phylogenetic and functional trait tools. He hopes insights from this research will inform conservation and management goals in restoration efforts. Originally from Norfork, AR, Andrew graduated from the University of Arkansas in 2024 with a B.S. in Anthropology. He serves on the board of the Arkansas Native Plant Society and enjoys spending his free time drumming in three Fayetteville-based rock bands. Otherwise, you can find him taking photos of plants, studying plant ID, or volunteering with the AR Master Naturalists or local outdoor education camps."
   ),
   Pics = rep("", length(profile_pics))
 )
