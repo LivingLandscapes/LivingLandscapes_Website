@@ -14,8 +14,8 @@ navbar:
       href: Opportunities.html
     - text: "Lab Compact"
       href: LabCompact.html
-    - text: "Coding Code of Conduct"
-      href: CodeOfConduct.html
+    # - text: "Coding Code of Conduct"
+      # href: CodeOfConduct.html
     - text: "Lab Reading List"
       href: ReadingList.html
     # - text: "Fun"
