@@ -23,6 +23,7 @@ body, td {
 December 2025
 
 - Michael Ferrara successfully defended his thesis on bird community responses to solar arrays! Well done, Michael! Michael won't be leaving us, though: he's going to be starting as a PhD student in the spring!!!
+- Gracie Whatley will be joining the lab in spring 2026! Gracie came to us from Quail Forever, and we're so excited to welcome her to the lab!
 - We've published two more papers since our last update:
   + First, we used historic King Rail survey data in Arkansas to show that while King Rails and their habitat are rare in the Arkansas Delta, their occupancy is stable. See the paper in [Ornithological Applications](https://academic.oup.com/condor/advance-article/doi/10.1093/ornithapp/duaf061/8284831)!
   + Second, we coauthored a synthesis on how tracking spatial regimes is can predict ecological changes. See the book chapter in [Advances in Ecological Research](https://doi.org/10.1016/bs.aecr.2025.08.001)!
