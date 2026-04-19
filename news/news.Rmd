@@ -19,6 +19,17 @@ body, td {
 
 ---
 
+April 2026
+
+- Anne Puchalsky won second-place in graduate student presentations award at the Arkansas Chapter of The Wildlife Society. Congrats, Anne!
+- Lauren Luther, Paul Akpejeluh, Michael Ferrara, Evan Wilson, and I presented at the annual Society for Range Management Conference in Monterey, CA this February. We saw sea otters! We heard "heterogeneity" and "working lands" a million times. It was a blast!
+- Some new papers
+  + Former student Lauren Berry published her first thesis chapter in [Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.70515). We tested a new remote sensing metric for finding grassland cores and related it to grassland bird occupancy.
+  + Another former student, Ken Wilson, published one of his chapters on seasonal variation in feral hog diet in the [Wildlife Society Bulletin](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.70019).
+  + Finally, we have another King Rail paper--this one led by Dustin Brewer and published in [Ecological Solutions and Evidence](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.70233).
+
+---
+
 
 December 2025
 
